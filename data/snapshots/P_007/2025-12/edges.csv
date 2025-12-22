@@ -1,0 +1,10 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_007,risk::1::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::1::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::1::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::1::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+project::P_007,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_007,2025-12
+risk::1::resettlement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::fb32effd4971162ba25b3bcca053c69816fede63::fb32effd4971162ba25b3bcca053c69816fede63_1::119470828,P_007,2025-12
+risk::2::environment,risk::1::resettlement,CO_OCCURS,0.3,0.55,ev::fb32effd4971162ba25b3bcca053c69816fede63::fb32effd4971162ba25b3bcca053c69816fede63_1::119470828,P_007,2025-12

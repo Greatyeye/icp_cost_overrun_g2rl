@@ -1,0 +1,9 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_014,risk::1::bid,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+project::P_014,risk::1::bid,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+project::P_014,risk::2::institutional,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+project::P_014,risk::3::environmental,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+project::P_014,risk::4::bidding,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+project::P_014,risk::5::financing,ASSOCIATED_WITH,1.0,0.55,,P_014,2025-12
+risk::2::institutional,risk::3::environmental,CO_OCCURS,0.3,0.55,ev::2196b3400b858aa135cc75195d719a33e724af49::2196b3400b858aa135cc75195d719a33e724af49_1::952371736,P_014,2025-12
+risk::3::environmental,risk::2::institutional,CO_OCCURS,0.3,0.55,ev::2196b3400b858aa135cc75195d719a33e724af49::2196b3400b858aa135cc75195d719a33e724af49_1::952371736,P_014,2025-12

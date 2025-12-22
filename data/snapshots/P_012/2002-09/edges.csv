@@ -1,0 +1,761 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_012,action::100::o the recipient will promptly,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::101::f (a) the bank shall have dete,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::102::25 * maintain policies and pro,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::103::the recipient should review wi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::103::the recipient should review wi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::104::concerning the emc loan guaran,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::105::* no withdrawals will be made,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::106::energy savings and carbon redu,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::107::total actual energy savings an,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::108::in addition to these key proje,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::109::in addition to these key proje,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::10::high loan transaction costs fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::110::30 annex 2: detailed project d,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::111::although some international te,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::112::additional work program detail,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::112::additional work program detail,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::113::prior to the end of 2003, and",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::114::the permanent service institut,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::115::training will include customiz,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::116::training will include customiz,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::117::measures of the emc associatio,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::118::qualitative performance assess,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::119::working together with the impl,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::11::the china energy conservation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::120::during 2002 and early 2003, wo",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::121::customized technical assistanc,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::121::customized technical assistanc,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::122::on the emc side, the emc servi",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::123::on the emc side, the emc servi",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::124::the association's expenditures,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::125::the primary sources of financi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::126::development of emc service ass,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::127::the astae-dfid and gef support,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::128::increasingly over the project,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::129::the association's advanced tra,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::12::approved by the bank's board i,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::130::t first gain a high reputation,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::131::the share of gef-supported inc,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::132::-2 -1 0 1 2 3 4 5 6 7 project,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::133::the key functions of the pmo,",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::134::based on, and including detail",ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::135::the pmo also will be responsib,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::136::the pmo will operate the bank,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::137::by engaging suitable expertise,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::137::by engaging suitable expertise,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::138::this transition will still req,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::139::with china's entry into the wo,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::13::their businesses are growing r,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::140::wto entry will bring an increa,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::141::chinese banks are becoming kee,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::142::developments in these areas wi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::143::the proposed loan guarantee pr,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::144::the guarantee program will sup,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::145::the guarantee program will pro,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::146::the guarantee program will pro,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::147::the program will be open to an,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::148::39 the guarantee program will,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::149::it is expected that one ia wil,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::14::the proposed second energy con,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::150::in order to allow proper flexi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::151::the ia will prepare annual pla,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::152::the initial 2-3 year implement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::153::at this point, the program exp",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::154::if the arrangements with the i,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::155::gef support for the emc loan g,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::156::em c service loans association,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::157::gef funds of $22 million equiv,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::158::(if more than one implementati,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::159::fund resources will be place i,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::15::the proposed second energy con,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::160::the capital reserve will be se,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::161::a maximum of 50% of the total,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::162::setc's pmo will (i) ensure com,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::163::ports, audits, management perf",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::164::world bank supervision or appr,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::165::at the end of the seven-year p,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::166::final allocations of gef proce,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::167::the financial structuring of l,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::168::second, the guarantee program",ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::169::this also will add further and,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::16::project components (see annex,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::170::the incremental operating cost,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::171::the technical assistance servi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::172::both of these efforts also pro,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,"action::173::aff, which will be critical fo",ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::174::development of the emc loan gu,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::175::the proposed second project is,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::176::47 contingent finance modality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::177::gef financing proposed for thi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::178::as the concept has been succes,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::179::the initial gef grant to suppo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::17::this component will support th,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::180::the distinction between a conv,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::181::(if agreement is not reached o,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::182::at the end of the project, as",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::183::if the return is lower than ex,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::184::(sufficient incentives for max,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::185::since the final grant will not,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::186::the incremental cost payments,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::187::based on the market reviews co,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::188::without a large-scale effort t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::189::gef grant resources of $1.6 mi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::18::during 2003 and following the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::190::this support will enable the e,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::191::by the end of the project peri,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::192::rt, and will be implemented by",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::193::an especially important part o,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::194::gef grant resources of $1.8 mi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::195::these costs include developmen,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::196::rnational expertise on commerc,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::197::l.hese costs also include a ma,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::198::the financing package develope,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::199::the final grant will be equal,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::19::proposed additional financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::1::document of the world bank rep,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::200::while the exact amount of the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::201::incremental cost of the gef al,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::202::energy savings actually achiev,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::203::in addition, however, the emc",ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::204::leveraging of gef funds as a s,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::205::(c) considering the return of,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::206::54 annex 5: financial summary,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::207::to achieve this, the program w",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::208::as described in the main text,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::209::the project will provide gef f,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::20::the astae-df[d project plays a,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::210::the project will also provide,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::210::the project will also provide,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::211::is the fund against which guar,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::212::the analysis will be further r,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::213::(i&g), with whom the bank and",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::214::the first tranch will need to,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::215::specific disbursement triggers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::216::however, the project will play",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::217::the key practical restriction,",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::218::overly conservative control of,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::219::o rapid market development and,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::21::proposed gef-financed aspects.,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::21::proposed gef-financed aspects.,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::220::volume of business will also n,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::221::o demand for loan guarantees w,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::222::the program la/s will incur tw,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::223::the la/s will be allowed to re,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::224::since the program is new, and",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::225::operating cost compensation fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::226::the wais role to improve the c,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,"action::227::thus, the program requires suf",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::228::however, since the emc loan gu",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::228::however, since the emc loan gu",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::229::the existing emcs have underta,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::22::lan development for new emcs p,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::230::for relatively newly establish,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::231::this will however take time.,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::232::in addition, the program canno",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::233::the compensation and incentive,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::234::an initial compensation and in,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::235::financial compensation of the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::236::the implementation agreement a,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::237::one possibility would be to se,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::238::the model, basic assumption, s",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::239::recovery rate refers to the ex,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::23::gef support over a five-year p,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::240::it also is likely that the cap,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,"action::241::however, since the initial cap",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::242::although not shown in the sens,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::243::these conclusions then yield t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::244::financing of the guarantee pro,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::245::financing of incremental opera,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::246::all procurement of consultants,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::247::emc service group/association,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::248::procurement of services with a,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::249::selection of individual consul,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::24::gef funds also will be used to,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::250::as also required in the legal,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::251::all consultant contract terms,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::252::miscellaneous no procurement 0,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::253::as the beneficiary of the proj,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::254::the other two beneficiaries-th,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::255::the pmo will have overall resp,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::256::frequency of procurement super,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::257::post review of procurement wil,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::258::at least one in every 8 contra,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::259::as in this proposed project, t",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::25::the group also will provide a,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::260::as identified in the assessmen,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::261::the workshop will review (a) t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::262::no outstanding audits or audit,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::263::traditional disbursement metho,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::264::financial management systems f,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::265::system (fms) proposed by the c,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::266::the fms of this ia, and other",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::267::in line with other bank financ,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::268::in line with other bank financ,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::269::annual audit reports will be i,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::26::these two plans will provide b,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::270::the general project accounts r,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::271::separate audit reports for the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::272::audit reports of the annual fi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::273::the annual audit on guarantee,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::274::one special account will be op,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::275::the special account will be us,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::276::for category 3, the guarantee",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::277::disbursement will be made agai,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::278::disbursements against these ca,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::279::for the emc service group/asso,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::27::the critical project monitorin,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::27::the critical project monitorin,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,"action::280::for the ia, incremental operat",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::281::disbursements under this categ,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::281::disbursements under this categ,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::282::for each fund, up to 50% of th",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::283::disbursement of second and thi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::284::as it is expected that only on,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::285::if data are missing, the diamo",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::286::all three emcs declared net pr,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::287::payment schedules are negotiat,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::288::given the enormous size of chi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::289::in terms of host enterprises,",ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::28::the pmo will maintain the spec,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::28::the pmo will maintain the spec,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::28::the pmo will maintain the spec,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::28::the pmo will maintain the spec,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::290::as the larger emc industry dev,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::291::r 2000 mid-term project review,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::292::with respect to market develop,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::293::and will continue to explore a,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::294::for the phase ii project, howe",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::295::in the future, expanded effort",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::296::many chinese government and en,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::297::however, as the emc industry a",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::297::however, as the emc industry a",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::298::while it is expected that emcs,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::299::while efforts under the phase,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::29::the pmo will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::2::project development objective:,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::300::this work will continue.,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::301::these comments and concerns, r",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::302::86 annex 12: flow chart for en,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::303::yes emc asks host enterprise t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::30::the pmo will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::30::the pmo will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::31::the pmo will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::31::the pmo will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::32::as the pmo also will operate t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::32::as the pmo also will operate t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::33::a new emc loan guarantee progr,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::34::the guarantee program will be,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::35::the program will be implemente,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::36::continuation of the appointmen,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::37::the ia with i&g will focus in,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::38::the first four individual guar,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::39::eview, which will involve inte",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::3::to foster the broad developmen,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::40::the first four individual guar,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::41::the program will offer partial,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::42::the program will be open to an,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::43::hence, guarantee commitments w",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::44::gee resources of $22 million e,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::45::(multiple funds will be establ,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::46::the fund will be operated by t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::47::the fund will be operated by t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::48::the fund will (a) be a separat,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::49::income from investments of the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::4::key performance indicators: (s,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::50::based on the provisions of the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::51::as an account operated by setc,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::52::at the end of the seven-year p,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::53::even with very conservative as,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::54::this project component will be,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::55::no direct grants will be provi,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::56::benefits and targelt populatio,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::57::institutional and implementati,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::58::the setc's project management,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::59::the details of project impleme,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::5::the key performance indicators,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::60::the task team has also exchang,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::61::as planned prior to submission,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::62::this will require additional i,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::63::there is no alternative invest,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::64::financial (see annex 4 and ann,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::65::5): as described in section cl,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::66::financial projections for the,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::67::arrangements for the first imp,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::68::institutional: 4.1 executing a,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::69::for the guarantee program, the",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::6::in addition, a number of other",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::70::4.2 project management: overal,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::71::the pmo will assist the emc se,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::72::this financial intermediation,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::73::this financial intermediation,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::74::the emc loan guarantee program,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::75::few, if any, will involve any",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::76::and b projects, timeline and s",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::77::no social hardships are antici,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::78::through the efforts of the set,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,action::79::access to initial technical as,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::7::although further reforms remai,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::80::access to more advanced traini,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::81::n/a 6.5 how will the project m,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::82::the nature of the project conf,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::83::the main risks of the program,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::84::finally, the compensation/ince",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::85::this is rated a moderate risk,ASSOCIATED_WITH,1.0,0.6,,P_012,2002-09
+project::P_012,action::86::unwillingness by the banks to,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,"action::87::overly aggressive pricing, how",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::88::incentives measures will be in,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::89::the effectiveness of such ince,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,"action::8::remain necessary, profit motiv",ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::90::tial operation will be reviewe,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::91::mitigation measures which will,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::92::mitigation measures include ex,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::93::operating cost issues will be,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::94::* the recipient will have all,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::95::the recipient will also cause,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::96::* the recipient will furnish t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::97::* the recipient will furnish t,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::98::the first report will be furni,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::99::* the bank will have rights of,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,action::9::the bank also is considering p,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::1::compensation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,claim::2::claims,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::10::coordination,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::11::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::12::capacity,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::14::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::14::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::14::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::15::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::15::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::16::political,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::17::quality,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::18::additional work,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::18::additional work,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::19::exchange rate,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::19::exchange rate,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::1::currency,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::20::inflation,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::3::institutional,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::5::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::7::variations,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::7::variations,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::7::variations,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::7::variations,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::7::variations,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.65,,P_012,2002-09
+project::P_012,risk::8::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+project::P_012,risk::9::security,ASSOCIATED_WITH,1.0,0.55,,P_012,2002-09
+risk::10::coordination,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_86::335114772,P_012,2002-09
+risk::11::implementing agency,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_124::845680703,P_012,2002-09
+risk::11::implementing agency,risk::5::disbursement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_48::844014285,P_012,2002-09
+risk::11::implementing agency,risk::5::disbursement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_129::411046714,P_012,2002-09
+risk::11::implementing agency,risk::9::security,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_46::119351091,P_012,2002-09
+risk::12::capacity,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_119::726906281,P_012,2002-09
+risk::12::capacity,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_131::790586382,P_012,2002-09
+risk::12::capacity,risk::5::disbursement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_50::268789306,P_012,2002-09
+risk::12::capacity,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_63::37299332,P_012,2002-09
+risk::12::capacity,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_63::310430736,P_012,2002-09
+risk::12::capacity,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_74::475931462,P_012,2002-09
+risk::13::safety,risk::14::resettlement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_38::3212767,P_012,2002-09
+risk::14::resettlement,risk::13::safety,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_38::3212767,P_012,2002-09
+risk::1::currency,risk::2::environment,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_0::966590889,P_012,2002-09
+risk::2::environment,risk::1::currency,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_0::966590889,P_012,2002-09
+risk::2::environment,risk::3::institutional,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_28::567611219,P_012,2002-09
+risk::2::environment,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_13::503002593,P_012,2002-09
+risk::2::environment,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_3::846959548,P_012,2002-09
+risk::2::environment,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_40::112673274,P_012,2002-09
+risk::2::environment,risk::6::financing,CO_OCCURS,1.0,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_95::24057849,P_012,2002-09
+risk::3::institutional,risk::2::environment,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_28::567611219,P_012,2002-09
+risk::3::institutional,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_142::509805040,P_012,2002-09
+risk::4::procurement,risk::11::implementing agency,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_124::845680703,P_012,2002-09
+risk::4::procurement,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_119::726906281,P_012,2002-09
+risk::4::procurement,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_131::790586382,P_012,2002-09
+risk::4::procurement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_13::503002593,P_012,2002-09
+risk::4::procurement,risk::3::institutional,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_142::509805040,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_5::751502018,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_13::954459024,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::406054494,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::504810231,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::350947845,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_144::176499440,P_012,2002-09
+risk::4::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_144::631643485,P_012,2002-09
+risk::5::disbursement,risk::11::implementing agency,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_48::844014285,P_012,2002-09
+risk::5::disbursement,risk::11::implementing agency,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_129::411046714,P_012,2002-09
+risk::5::disbursement,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_50::268789306,P_012,2002-09
+risk::6::financing,risk::10::coordination,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_86::335114772,P_012,2002-09
+risk::6::financing,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_63::37299332,P_012,2002-09
+risk::6::financing,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_63::310430736,P_012,2002-09
+risk::6::financing,risk::12::capacity,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_74::475931462,P_012,2002-09
+risk::6::financing,risk::2::environment,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_3::846959548,P_012,2002-09
+risk::6::financing,risk::2::environment,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_40::112673274,P_012,2002-09
+risk::6::financing,risk::2::environment,CO_OCCURS,1.0,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_95::24057849,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_5::751502018,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_13::954459024,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::406054494,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::504810231,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::350947845,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_144::176499440,P_012,2002-09
+risk::6::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_144::631643485,P_012,2002-09
+risk::6::financing,risk::7::variations,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_5::504217932,P_012,2002-09
+risk::6::financing,risk::8::suppliers,CO_OCCURS,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_10::712790851,P_012,2002-09
+risk::6::financing,risk::8::suppliers,CO_OCCURS,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_11::840913702,P_012,2002-09
+risk::6::financing,risk::8::suppliers,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_91::981057322,P_012,2002-09
+risk::6::financing,risk::9::security,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_90::9411835,P_012,2002-09
+risk::7::variations,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_5::504217932,P_012,2002-09
+risk::8::suppliers,risk::6::financing,CO_OCCURS,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_10::712790851,P_012,2002-09
+risk::8::suppliers,risk::6::financing,CO_OCCURS,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_11::840913702,P_012,2002-09
+risk::8::suppliers,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_91::981057322,P_012,2002-09
+risk::9::security,risk::11::implementing agency,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_46::119351091,P_012,2002-09
+risk::9::security,risk::6::financing,CO_OCCURS,0.3,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_90::9411835,P_012,2002-09
+risk::11::implementing agency,risk::11::implementing agency,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_78::998037641,P_012,2002-09
+risk::11::implementing agency,risk::11::implementing agency,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_121::92329500,P_012,2002-09
+risk::12::capacity,risk::12::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_52::625876694,P_012,2002-09
+risk::12::capacity,risk::12::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_116::151696132,P_012,2002-09
+risk::17::quality,risk::17::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_122::717040882,P_012,2002-09
+risk::19::exchange rate,risk::19::exchange rate,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_113::926683799,P_012,2002-09
+risk::20::inflation,risk::20::inflation,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_140::118687093,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_32::380450383,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_51::928195737,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_52::230511287,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_84::931357158,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_84::396341013,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_95::24057849,P_012,2002-09
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_132::563923646,P_012,2002-09
+risk::3::institutional,risk::3::institutional,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_63::23640112,P_012,2002-09
+risk::4::procurement,risk::4::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_35::573604497,P_012,2002-09
+risk::5::disbursement,risk::5::disbursement,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::215640187,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_19::294167341,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_28::433620309,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_29::198255367,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_65::424649840,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_89::691202517,P_012,2002-09
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_95::24057849,P_012,2002-09
+risk::7::variations,risk::7::variations,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_113::227420941,P_012,2002-09
+risk::8::suppliers,risk::8::suppliers,INCREASES_COST_SIGNAL,1.0,0.5,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_61::796695087,P_012,2002-09
+risk::11::implementing agency,claim::1::compensation,LEADS_TO_CLAIM,1.0,0.6,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_78::998037641,P_012,2002-09
+risk::11::implementing agency,claim::1::compensation,LEADS_TO_CLAIM,0.3,0.6,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_80::968662537,P_012,2002-09
+risk::12::capacity,claim::2::claims,LEADS_TO_CLAIM,0.3,0.6,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_50::268789306,P_012,2002-09
+risk::5::disbursement,claim::2::claims,LEADS_TO_CLAIM,0.3,0.6,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_50::268789306,P_012,2002-09
+action::100::o the recipient will promptly,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_45::34427693,P_012,2002-09
+action::101::f (a) the bank shall have dete,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_46::119351091,P_012,2002-09
+action::101::f (a) the bank shall have dete,risk::9::security,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_46::119351091,P_012,2002-09
+action::104::concerning the emc loan guaran,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_48::294050809,P_012,2002-09
+action::105::* no withdrawals will be made,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_48::844014285,P_012,2002-09
+action::105::* no withdrawals will be made,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_48::844014285,P_012,2002-09
+action::110::30 annex 2: detailed project d,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_54::172811973,P_012,2002-09
+action::112::additional work program detail,risk::18::additional work,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_55::408831797,P_012,2002-09
+action::112::additional work program detail,risk::18::additional work,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_56::408831797,P_012,2002-09
+action::119::working together with the impl,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_60::578256922,P_012,2002-09
+action::124::the association's expenditures,risk::12::capacity,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_62::502855337,P_012,2002-09
+action::12::approved by the bank's board i,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_12::417818968,P_012,2002-09
+action::131::the share of gef-supported inc,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_65::424649840,P_012,2002-09
+"action::133::the key functions of the pmo,",risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_66::311384569,P_012,2002-09
+"action::134::based on, and including detail",risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_67::995390988,P_012,2002-09
+action::135::the pmo also will be responsib,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_67::307716381,P_012,2002-09
+action::148::39 the guarantee program will,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_73::628652323,P_012,2002-09
+action::150::in order to allow proper flexi,risk::12::capacity,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_74::475931462,P_012,2002-09
+action::150::in order to allow proper flexi,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_74::475931462,P_012,2002-09
+action::161::a maximum of 50% of the total,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_77::161078080,P_012,2002-09
+"action::163::ports, audits, management perf",risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_78::998037641,P_012,2002-09
+action::16::project components (see annex,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_19::294167341,P_012,2002-09
+action::176::47 contingent finance modality,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_86::340799158,P_012,2002-09
+action::177::gef financing proposed for thi,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_86::335114772,P_012,2002-09
+action::177::gef financing proposed for thi,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_86::335114772,P_012,2002-09
+action::178::as the concept has been succes,risk::15::enhancement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_87::434510998,P_012,2002-09
+action::186::the incremental cost payments,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_89::691202517,P_012,2002-09
+action::188::without a large-scale effort t,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_90::9411835,P_012,2002-09
+action::188::without a large-scale effort t,risk::9::security,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_90::9411835,P_012,2002-09
+action::198::the financing package develope,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_93::838283601,P_012,2002-09
+action::19::proposed additional financing,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_21::128331050,P_012,2002-09
+action::204::leveraging of gef funds as a s,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_98::804771535,P_012,2002-09
+action::206::54 annex 5: financial summary,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_100::146942269,P_012,2002-09
+action::208::as described in the main text,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_100::936324525,P_012,2002-09
+action::209::the project will provide gef f,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_100::841910909,P_012,2002-09
+action::215::specific disbursement triggers,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_103::998074649,P_012,2002-09
+action::226::the wais role to improve the c,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_108::858487367,P_012,2002-09
+action::242::although not shown in the sens,risk::12::capacity,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_116::151696132,P_012,2002-09
+action::243::these conclusions then yield t,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_116::876246356,P_012,2002-09
+action::244::financing of the guarantee pro,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::406054494,P_012,2002-09
+action::244::financing of the guarantee pro,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::406054494,P_012,2002-09
+action::245::financing of incremental opera,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::504810231,P_012,2002-09
+action::245::financing of incremental opera,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::504810231,P_012,2002-09
+action::246::all procurement of consultants,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_120::487334685,P_012,2002-09
+action::247::emc service group/association,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_121::92329500,P_012,2002-09
+action::248::procurement of services with a,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_121::921515185,P_012,2002-09
+action::252::miscellaneous no procurement 0,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::242631107,P_012,2002-09
+action::253::as the beneficiary of the proj,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::210701064,P_012,2002-09
+action::254::the other two beneficiaries-th,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::922938063,P_012,2002-09
+action::255::the pmo will have overall resp,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::630505054,P_012,2002-09
+action::256::frequency of procurement super,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::9850781,P_012,2002-09
+action::257::post review of procurement wil,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_123::951897970,P_012,2002-09
+action::260::as identified in the assessmen,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_124::845680703,P_012,2002-09
+action::260::as identified in the assessmen,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_124::845680703,P_012,2002-09
+action::261::the workshop will review (a) t,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_124::907819090,P_012,2002-09
+action::263::traditional disbursement metho,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_125::593956887,P_012,2002-09
+"action::276::for category 3, the guarantee",risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_127::203603653,P_012,2002-09
+action::277::disbursement will be made agai,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_127::452813361,P_012,2002-09
+action::279::for the emc service group/asso,risk::3::institutional,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_128::183875348,P_012,2002-09
+action::283::disbursement of second and thi,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_129::411046714,P_012,2002-09
+action::283::disbursement of second and thi,risk::5::disbursement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_129::411046714,P_012,2002-09
+"action::285::if data are missing, the diamo",risk::20::inflation,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_140::118687093,P_012,2002-09
+action::28::the pmo will maintain the spec,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_22::774278938,P_012,2002-09
+action::28::the pmo will maintain the spec,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_23::774278938,P_012,2002-09
+action::28::the pmo will maintain the spec,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_91::774278938,P_012,2002-09
+action::28::the pmo will maintain the spec,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_92::774278938,P_012,2002-09
+action::291::r 2000 mid-term project review,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_149::4483558,P_012,2002-09
+"action::294::for the phase ii project, howe",risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_151::323586713,P_012,2002-09
+"action::295::in the future, expanded effort",risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_153::220873027,P_012,2002-09
+action::296::many chinese government and en,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_154::564430112,P_012,2002-09
+action::298::while it is expected that emcs,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_155::820887617,P_012,2002-09
+action::302::86 annex 12: flow chart for en,risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_156::329290587,P_012,2002-09
+action::303::yes emc asks host enterprise t,risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_156::308809196,P_012,2002-09
+action::30::the pmo will be responsible fo,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_23::358908445,P_012,2002-09
+action::30::the pmo will be responsible fo,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_92::358908445,P_012,2002-09
+action::31::the pmo will be responsible fo,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_23::132967038,P_012,2002-09
+action::31::the pmo will be responsible fo,risk::4::procurement,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_92::132967038,P_012,2002-09
+action::33::a new emc loan guarantee progr,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_23::148089961,P_012,2002-09
+action::34::the guarantee program will be,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_24::736729375,P_012,2002-09
+action::54::this project component will be,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_28::412798895,P_012,2002-09
+action::57::institutional and implementati,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_29::548385834,P_012,2002-09
+action::58::the setc's project management,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_29::123119139,P_012,2002-09
+action::59::the details of project impleme,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_29::379046585,P_012,2002-09
+action::61::as planned prior to submission,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_31::740699074,P_012,2002-09
+action::62::this will require additional i,risk::3::institutional,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_32::304512633,P_012,2002-09
+action::68::institutional: 4.1 executing a,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_34::3265641,P_012,2002-09
+action::70::4.2 project management: overal,risk::10::coordination,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_35::473205719,P_012,2002-09
+action::72::this financial intermediation,risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_35::160846585,P_012,2002-09
+action::73::this financial intermediation,risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_36::997037572,P_012,2002-09
+"action::75::few, if any, will involve any",risk::13::safety,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_36::762522445,P_012,2002-09
+"action::76::and b projects, timeline and s",risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_37::310075262,P_012,2002-09
+action::82::the nature of the project conf,risk::2::environment,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_40::112673274,P_012,2002-09
+action::82::the nature of the project conf,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_40::112673274,P_012,2002-09
+action::86::unwillingness by the banks to,risk::6::financing,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_41::363259232,P_012,2002-09
+action::95::the recipient will also cause,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_44::608110162,P_012,2002-09
+action::99::* the bank will have rights of,risk::11::implementing agency,MITIGATES,0.6,0.55,ev::0a9d747e054a2dc5050ff841f91d6b9e344c94ea::0a9d747e054a2dc5050ff841f91d6b9e344c94ea_45::663463274,P_012,2002-09

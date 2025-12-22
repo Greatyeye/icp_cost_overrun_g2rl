@@ -1,0 +1,2 @@
+node_id,node_type,name,taxonomy,confidence,probability,severity_num,project_id
+project::P_010,Project,P_010,,1.0,0.0,0.0,P_010

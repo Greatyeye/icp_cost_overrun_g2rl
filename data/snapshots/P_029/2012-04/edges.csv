@@ -1,0 +1,1204 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_029,action::100::the project will ensure that i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::101::the project will provide capac,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::102::capacity building will include,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::103::the project will support ongoi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::104::after the implementation, main",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::105::key risks and mitigation measu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::106::the project scope was streamli,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::106::the project scope was streamli,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::107::in addition, the provision of",ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::108::to address the government’s cr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::109::in terms of contributing to im,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::10::the success of the reforms wil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::110::the proposed institutional arr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::111::a psc will be established to e,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::112::the overall project risks are,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::113::as indicated in more detail in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::114::in order to mitigate this, the",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::115::in order to mitigate this, the",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::116::the project will also include,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::117::the newly appointed deputy cha,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::118::in order to reduce the resista,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::119::furthermore, some of the refor",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::11::therefore, this project will f",ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,"action::120::finally, automation of certain",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::121:: project design : the propose,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::122::success of the proje ct will d,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::123::to mitigate this risk, the pro",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::124::the task team will (i) continu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::125::the project will have signific,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::126::reforms envisioned in the area,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::127::based on existing findings in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::128::nfer that about 3,200 firms wi",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::129::it is expected that the projec,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::12::this project will focus on lay,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::130::the online nature of the regis,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::131::the project‘s support for lega,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::132::the payment system upgrade imp,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::133::the technical design proposed,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::134::the proposed ict architecture,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::135::the project currently does not,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::135::the project currently does not,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::136::the established pmu will be re,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::137::in addition, it will 19 be res",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::138::a time -bound action plan aime,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::139::according to this plan, condit",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::13::joint implementation of these,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::140::the scispm will procure and in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::141::all fm staff will receive focu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::142::the fm manual, which is part o",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::143::the ceiling for the design ate,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::143::the ceiling for the design ate,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::144::however, due to the lapsing of",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::144::however, due to the lapsing of",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::145::hence, provision for use of a",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::145::hence, provision for use of a",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::146::at the signing of the new oper,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::146::at the signing of the new oper,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::146::at the signing of the new oper,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::147::if the issues are resolved sub,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::147::if the issues are resolved sub,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::147::if the issues are resolved sub,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::148::operation), then the letter wi",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::149::procurement of goods and works,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::14::partnership with the internati,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::150::specifically, procurement of g",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::151::procurement will be the respon,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::151::procurement will be the respon,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::152::scispm will also need to imple,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::152::scispm will also need to imple,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::153::scispm will need to hire a pro,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::154::scispm will need to hire a pro,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::155::moreover, in order to mitigate",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::156::the project consists purely of,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::157::responding to the identified e,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::158::the key safeguards instrument,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::159::the sesa will be undertaken af,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::15::this is anticipated to lay the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::160::the sesa will accord considera,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::160::the sesa will accord considera,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::161::common stakeholder priorities,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::162::a successful project would lea,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::163::otherwise, they will be underm",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::164::second, the government needs t",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::165::it is one of the declared obje,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::166::project development objective,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::167::intermediate results indicator,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::168::the number of payments process,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::169::first, improved off-site repor",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::16::to complement the general busi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::170::then new bank supervision manu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::171::nbt‘s it system for bank super,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::172::areas to be covered under new,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::173::in the first year, the formal",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::173::in the first year, the formal",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::174::in the second year, it will be",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::175::in the third year, simulations",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::176::finally, simulations will not",ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::177::intermediate result indicator,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::178::female beneficiaries- one-stop,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::179::direct project beneficiaries-,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::17::finally, global experience dem",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::17::finally, global experience dem",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::180::is indicator will measure the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::181::volume of bank support: enabli,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::182::the program will focus on thre,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::183::it is considerably less effici,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::184::it will significantly simplify,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::185::furthermore, there will be an",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::186::the activities under this sub,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::187::legal experts will also assist,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::188::legal experts will also assist,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::189::the project will support the p,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::18::the project will address regul,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::190::registry design and developmen,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::191::awareness and training activit,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::192::the project will include prepa,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::193::developing monitoring and eval,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::194::the project will support putti,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::195::activities undertaken in these,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::196::regular users of the registry,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::196::regular users of the registry,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::197::other users will pay either th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::198:: the one-stop-shop for busine,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::199::no additional numbers will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::19::the proposed project contribut,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::1::document of the world bank for,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::200::these numbers will no longer b,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::201::in the final phase of the refo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::202::ry will be made available onli,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::203::this sub-component will help t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::204::the assistance will specifical,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::205::to implement this sub -compone,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::206::the project will use the city,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::207::under this component, the proj",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::208::the single window for construc,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::209::to ensure effective functionin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::20::50769 -tj), which contained ac",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::210::as the r esult of the project,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::211::as noted above, similar to the",ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::212::the it support to each of the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::213::the secured transactions and d,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,"action::214::and development, and awareness",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::215::this component wil l be coordi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::216::the project will support impro,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::217::specifically, the project will",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::218::the project will ensure harmon,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::219::the project will finance the p,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::21::the project will contribute s,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::220::this will ensure that the syst,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::221::the activitie s under this sub,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::222::the project will increase awar,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::223::training will be provided to t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::224::this component will be coordin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::224::this component will be coordin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::225::as the project focuses on impr,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::226::this sub -component will impro,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::227::online services envisioned und,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::228::implementation of the modern p,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::229::specifically, this sub-compone",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::22::the project will contribute si,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::230::in addition to contr ol of sys,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::231::the ats will have a linkage to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::231::the ats will have a linkage to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::232::the ach element will provide f,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::233::the ach will clear and settle,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::234::this will enable financial ins,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::235::it will also make payments fas,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::236::the ach will be linked to fina,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::236::the ach will be linked to fina,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::237::all of these agencies will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::238::all of these agencies will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::239::for example, government salary",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::23::for the mining sector, the pro",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::240::the result will be increased e,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::241::the ach will enable enterprise,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::242::banks will be able to offer di,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::243::enterprises that regularly bil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::244::employees in both public and p,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::245::they will have certainty that,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::245::they will have certainty that,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::246::taken in combination with the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::246::taken in combination with the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::247::consumers will be able to make,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::248::the system will contribute to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::249::this will not only contribute,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::24::entrepreneurs will primarily b,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::250::this sub -component will also,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::251::the module of financial instru,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::252::the sub-component will also st,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::252::the sub-component will also st,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::253::it will str,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::254::it will strengthen the oversig,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::255::this sub-component will encour,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::256::the project‘s support for lega,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::257::ta to nbt - strengthening of b,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::258::internal guidelines will be in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::259::internal guidelines will be in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::25::they will also benefit from ac,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::260::the project will be flexible i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::261::this will include the followin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::262:: strengthening of on -site su,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::263::the project will also support,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::263::the project will also support,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::264::in the move to adopting risk -,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::265:: stress test methodology: the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::266::nbt will also migrate to macro,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::267::the project will also assist n,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::268:: contingency planning and cri,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::269:: training and capacity buildi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::26::entrepreneurs operating in the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::270::upgrade of the nbt’s it system,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::271::the project will contribute us,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::272::procurement of new hardware se,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::273::development of a software pack,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::274::various estimates put the size,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::274::various estimates put the size,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::275::the mining investment procedur,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::276::to undertake the first four ac,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::277::activities an international co,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::278::the consultant‘s report will i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::279::the fiscal and legislative reg,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::27::residents of communities in ar,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::280::the consultant will then prepa,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::281::an institutional development s,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::282::he will work with government a,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::283::the advisor will provide recom,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::283::the advisor will provide recom,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::284::a consultant will be assist in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::285::consultant services will be hi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::286::an important part of this tech,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::287::for the first two activities i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::288:: for the last 3 activities in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::289::training will be provided and,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::289::training will be provided and,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::28::banks will also benefit from t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::290::training to relevant ministry,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::291::it will also work with the got,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::292::the focus of the consultations,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::293::the focus of the consultations,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::294::to undertake the various activ,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::295::component 3 will support the o,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::296::the pmu will work under the ov,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::297::key project stakeholders will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::298::project operational monitoring,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::299::these experts have recently be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::29::businesses will be able to gai,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::2::this document may be updated f,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::300::fiduciary aspects of the proje,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::301:: pmu: the project currently d,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::302::the tors will be reviewed for,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::303::the scispm will be the impleme,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::304::the scispm will manage project,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::305::the scispm will ensure that pr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::306::the client agreed to take acti,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::307::moreover, before the project b",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::308::pmu staff will be comprised of,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::309::they will provide the guidance,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::30::banks and microfinance organiz,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::310::however, it will be finalized",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::311::however, it will be finalized",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::312::specifically, segregation of d",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::313::the scispm will need to introd,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::314::the following action plan has,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::315::the fm chapter will reflect th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::316::procure and install an automat,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::317::organize training on the world,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::317::organize training on the world,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::318::recruit a full time paid fm co,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::319::under the project, the pmu wil",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::31::this in turn will benefit entr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::31::this in turn will benefit entr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::320::overall, project budgets, prep",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::321::the budgets will be prepared i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::322::annual budgets should be agree,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::323::the annual budget will be prep,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::324::the project accounting will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::324::the project accounting will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::325::for reporting purposes, cash b",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::325::for reporting purposes, cash b",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::326::the fm chapter of the pom will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::327::currently the scispm has no pl,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,"action::328::therefore, t he scispm will ne",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::329::this system will be specially,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::32::this sub -component will suppo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::330::the fm staff within the pmu wi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::331::for the purposes of the c urre,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::332::to achieve this, the scispm wi",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::333::ternal control system will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::334::to achieve this, the scispm wi",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::335::another person will be require,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::336::this person can be a full time,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::337::this will include preparation,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::338::the fm consultant will need to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::339::project related specific inter,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::33::the project will provide the n,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::340::they will include: procedures,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::341::this section of the pom will a,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::342::the bank account reconciliatio,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::343::the bank account reconciliatio,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::344::project management-oriented if,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::345::the scispm will need accountin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::346::the local fm consultant will b,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::347::the reports, to include statem",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::348::an audit of the project will i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::348::an audit of the project will i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::349::the annual audited project fin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::34::this sub -component will suppo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::350::the cost of the audit will be,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::351::the following table identifies,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::352::audited project financial stat,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::353::the agencies will publish the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::354::details on the ceiling of the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::355::withdrawal applications for th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::356::supporting documentation will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::356::supporting documentation will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::357::disbursements below these thre,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::358::this information will be made,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::359::the project will be a part of,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::35::to implement this sub -compone,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::360::during project implementation,",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::361::this review will include the f,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::362::scispm will also need to imple,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::363::scispm will also need to imple,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::364::given su ch an intensive workl,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::365::to mitigate these risks, inten",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::366::rocurement trainings, includin",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::367::procurement of goods and works,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::368::initial procurement plan cover,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::369::the plan will be updated annua,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::36::the sub -component will be imp,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::370::each update will be subject to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::371::a general procurement notice w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::371::a general procurement notice w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::372::a general procurement notice (,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::373::more details on the procuremen,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::374::goods contracts include severa,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::375::other contracts for procuremen,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::376::consultants' services would in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::377::lcs will be used for hiring au,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::378::budget for operating costs wil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::379::procurement reviews and superv,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::37::first, in order to enhance the",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::380::in addition, two supervision m",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::381::d to take place per year durin,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::382::one post review report , which",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::383::not less than 10 percent of th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::384::completion of an online on-sto,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,action::385::stakeholders: the proposed pro,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::386::secured transactions reforms w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::387::these reforms will also be sup,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::388::finally, the reforms will be s",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::389::automation of certain processe,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::38::second, this sub-component wil",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::390::adoption and implementation of,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::391::ved by the first initiative, a",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::392::resp: bank stage: preparation,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::393::nt: resources and training: th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::394::resources and training: during,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::395::the bank will conduct an asses,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::396::the project also will support,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::397::newly appointed deputy chairma,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::398::in public administration from,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::399::e experience in working with t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::39::third, this sub -component wil",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::3::r economic cooperation and dev,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::400::strong interest in scispm for,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::401::it is anticipated that tajikis,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::402::the pmu will consider this fac,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::403::consequently it will be depend,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::404::further, there is a risk that",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::405::cooperation: it was agreed tha,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::406::l the main agencies and the pr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::407::the scispm organized two works,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::408::the project will bring in inte,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::409::resp: client stage: implementa,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,action::40::the project will be complement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::410::success of the project will de,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::411::it packages procurement: the r,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::412::project design will include su,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::413::the project team will incorpor,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::413::the project team will incorpor,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::414::it will also incorporate lesso,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::415::it will also incorporate lesso,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::416::it packages procurement: the t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::417::resp: bank stage: preparation,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,action::418::this project will work in clos,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::419::there are no other donors invo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::41::the project will be complement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::420::an active dialogue has already,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::421::project sustainability: the pr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::422::new it systems: new it systems,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::423::staff retention: the project t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::424::new it systems: the team will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::425::project team proposed rating b,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::426::the strategy for is describes,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::427::formal supervision and field v,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::428::formal supervision and field v,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::429::the world bank task team will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::42::an assessment and recommendati,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::430::it will work closely with the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::431::the task team will also coordi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::432::the project will take a flexib,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::433::as part of its project supervi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::434::a world bank fm specialist wil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::435::areas for particular review wi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::436::during project implementation,",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::437::as part of its project supervi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::438::a dedicated procurement specia,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::439::implementation support mission,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::43::this sub-component will also i,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::440:: m&e: the world bank will rev,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::441::the team leader will discuss t,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::442::the team leader will facilitat,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::443::partners name institution/coun,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::444::urgent measures: nbt should re,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::445::nbt should focus its superviso,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::446::engage their management and sh,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::447::short-term measures : in view,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::448::medium-term measures : nbt sho,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::449::the world bank and the imf con,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::44::this sub-component will suppor,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::450::the rtgs assessment also recom,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::451::76 successful, will bring taji",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::452::the ats will have significant,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::453::the two main elements of the a,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::454::the rtgs will improve control,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::455::the rtgs will be procured and,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::456::the ach will provide functiona,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::457::similarly, the module of finan",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::458::it will enable transactions in,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::459::the module of financial instru,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::459::the module of financial instru,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::45::it will begin with a diagnosti,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::460::in sum, mining sector reform i",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::46::support will be provided to th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::47::hardware will be provided that,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::48::tr aining will be provided to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::48::tr aining will be provided to,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::49::under this sub-component suppo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::4::key risks and mitigation measu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::50::in addition, support will be p",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::51::ta for stakeholders will be pr,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::52::workshops will be organized fo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::53::in addition, support will be p",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::54::component 3 will support the o,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::55::the pmu has already been estab,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::56::the pmu will work under the gu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::56::the pmu will work under the gu,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::57::the psc will appoint project c,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::58::the project will be financed b,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::59::the sil will be financed by an,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::5::name recurrent due date freque,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::60::in order to ensure that the sy,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::60::in order to ensure that the sy,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::61::even with the existence of a g,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::62::the project will include l imi,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::63::improving the regulatory frame,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::63::improving the regulatory frame,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::63::improving the regulatory frame,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::64::implementation of modern regis,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::65::ensuring the existence of a mo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::66::it will also allow subsequ ent,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::67::despite the strength of all th,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::68::this increased risk will trans,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::68::this increased risk will trans,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::69::reditors will face greater ris,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::6::economic performance began imp,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::70::the project will focus on the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::70::the project will focus on the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::71::these components will collecti,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::72::a key lesson is that if the aw,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::73::finally, if outcomes (taxes, j",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::74::comparison of such data will a,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::75::the scispm will be the impleme,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::75::the scispm will be the impleme,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::76::project activities will be man,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::76::project activities will be man,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::77::in order to strengthen the cap,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::78::fiduciary aspects of the proje,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::79::the project coordinators, repr",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,"action::79::the project coordinators, repr",ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::7::overed and the government‘s an,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::80::a high -level project steering,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::80::a high -level project steering,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::81::specific roles and responsibil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::81::specific roles and responsibil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::81::specific roles and responsibil,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::82::the pmu will work under the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::83::the pmu will work under the ov,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::84::the psc will be chaired by the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::84::the psc will be chaired by the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::85::the scope of work of the psc w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::85::the scope of work of the psc w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::85::the scope of work of the psc w,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::86:: pmu: the project currently d,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::87::it will be charged with fiduci,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::87::it will be charged with fiduci,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::88::the pmu will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::88::the pmu will be responsible fo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::89::the pom will also outline the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::8::the 2010 country economic memo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::90::the pom will also outline the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::90::the pom will also outline the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::91::the implementing partners will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::91::the implementing partners will,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::92::project coordinators will rema,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::93::the tors will be reviewed for,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::93::the tors will be reviewed for,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::94::m&e of outcomes and results du,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::95::the pmu will prepare quarterly,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::96::a technical expert within the,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::97::discussions during supervision,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::97::discussions during supervision,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::98::in addition to the results ind,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::99::the government and implementin,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,action::9::the tender process has been mo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,action::9::the tender process has been mo,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,claim::1::claims,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,claim::2::dispute,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,claim::3::arbitration,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::10::security,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::11::inflation,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::11::inflation,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::12::depreciation,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::12::depreciation,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::13::capacity,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::14::political,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::15::tender,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::16::bid,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::16::bid,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::16::bid,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::17::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::18::enhancement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::19::poor performance,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::1::currency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::1::currency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::20::implementing agency,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::21::coordination,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::22::conflict,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::23::contingency,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::24::bidding,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::24::bidding,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::25::border,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.6,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::2::environment,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::3::procurement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::4::institutional,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::5::quality,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::6::financing,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::7::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::7::resettlement,ASSOCIATED_WITH,1.0,0.65,,P_029,2012-04
+project::P_029,risk::7::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::8::safety,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::8::safety,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::8::safety,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::8::safety,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+project::P_029,risk::9::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_029,2012-04
+risk::2::environment,risk::7::resettlement,CAUSES,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::923452965,P_029,2012-04
+risk::7::resettlement,risk::2::environment,CAUSES,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::923452965,P_029,2012-04
+risk::7::resettlement,risk::8::safety,CAUSES,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_7::428010822,P_029,2012-04
+risk::8::safety,risk::7::resettlement,CAUSES,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_7::428010822,P_029,2012-04
+risk::10::security,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_119::623053220,P_029,2012-04
+risk::13::capacity,risk::10::security,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_119::623053220,P_029,2012-04
+risk::13::capacity,risk::14::political,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_53::836772639,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::332235041,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::152069850,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_66::150463326,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_88::57350761,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::13::capacity,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_32::743720404,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_32::67408768,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_36::131277951,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::834481129,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::69848116,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::296028069,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::834481129,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::834481129,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::716813898,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::622143098,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_133::400733262,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_134::472104368,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_136::569376632,P_029,2012-04
+risk::13::capacity,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::13::capacity,risk::6::financing,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_145::987608369,P_029,2012-04
+risk::13::capacity,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::163370901,P_029,2012-04
+risk::13::capacity,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::316629001,P_029,2012-04
+risk::14::political,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_53::836772639,P_029,2012-04
+risk::14::political,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_54::100828566,P_029,2012-04
+risk::15::tender,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::257421240,P_029,2012-04
+risk::15::tender,risk::5::quality,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::681341006,P_029,2012-04
+risk::15::tender,risk::5::quality,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_98::321684771,P_029,2012-04
+risk::1::currency,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_0::948556151,P_029,2012-04
+risk::20::implementing agency,risk::2::environment,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_41::716567868,P_029,2012-04
+risk::20::implementing agency,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_40::70685406,P_029,2012-04
+risk::20::implementing agency,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_95::936408682,P_029,2012-04
+risk::20::implementing agency,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::767620431,P_029,2012-04
+risk::20::implementing agency,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_100::853378461,P_029,2012-04
+risk::21::coordination,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_91::407899928,P_029,2012-04
+risk::21::coordination,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+risk::23::contingency,risk::5::quality,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::102607721,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::332235041,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::152069850,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_66::150463326,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_88::57350761,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::2::environment,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::2::environment,risk::14::political,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_54::100828566,P_029,2012-04
+risk::2::environment,risk::15::tender,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::257421240,P_029,2012-04
+risk::2::environment,risk::1::currency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_0::948556151,P_029,2012-04
+risk::2::environment,risk::20::implementing agency,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_41::716567868,P_029,2012-04
+risk::2::environment,risk::21::coordination,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_91::407899928,P_029,2012-04
+risk::2::environment,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::2::environment,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_8::574376749,P_029,2012-04
+risk::2::environment,risk::3::procurement,CO_OCCURS,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_122::661692374,P_029,2012-04
+risk::2::environment,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::2::environment,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::2::environment,risk::4::institutional,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::2::environment,risk::4::institutional,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_89::412566431,P_029,2012-04
+risk::2::environment,risk::4::institutional,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_115::993672138,P_029,2012-04
+risk::2::environment,risk::6::financing,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_31::284428760,P_029,2012-04
+risk::2::environment,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::138591090,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_32::743720404,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_32::67408768,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_36::131277951,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::834481129,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::69848116,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::296028069,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::834481129,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::834481129,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::716813898,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::622143098,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_133::400733262,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_134::472104368,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_136::569376632,P_029,2012-04
+risk::3::procurement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::3::procurement,risk::20::implementing agency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_40::70685406,P_029,2012-04
+risk::3::procurement,risk::20::implementing agency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_95::936408682,P_029,2012-04
+risk::3::procurement,risk::20::implementing agency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::767620431,P_029,2012-04
+risk::3::procurement,risk::20::implementing agency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_100::853378461,P_029,2012-04
+risk::3::procurement,risk::21::coordination,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+risk::3::procurement,risk::2::environment,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::3::procurement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_8::574376749,P_029,2012-04
+risk::3::procurement,risk::2::environment,CO_OCCURS,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_122::661692374,P_029,2012-04
+risk::3::procurement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_135::801891808,P_029,2012-04
+risk::3::procurement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::448433417,P_029,2012-04
+risk::3::procurement,risk::4::institutional,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::3::procurement,risk::5::quality,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_113::430505242,P_029,2012-04
+risk::3::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::234040612,P_029,2012-04
+risk::3::procurement,risk::6::financing,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::1790496,P_029,2012-04
+risk::3::procurement,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::987695454,P_029,2012-04
+risk::3::procurement,risk::9::disbursement,CO_OCCURS,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::758263355,P_029,2012-04
+risk::3::procurement,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::586810201,P_029,2012-04
+risk::3::procurement,risk::9::disbursement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_101::799931955,P_029,2012-04
+risk::4::institutional,risk::2::environment,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::4::institutional,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_89::412566431,P_029,2012-04
+risk::4::institutional,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_115::993672138,P_029,2012-04
+risk::4::institutional,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::5::quality,risk::15::tender,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::681341006,P_029,2012-04
+risk::5::quality,risk::15::tender,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_98::321684771,P_029,2012-04
+risk::5::quality,risk::23::contingency,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::102607721,P_029,2012-04
+risk::5::quality,risk::3::procurement,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_113::430505242,P_029,2012-04
+risk::6::financing,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_145::987608369,P_029,2012-04
+risk::6::financing,risk::2::environment,CO_OCCURS,1.0,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_31::284428760,P_029,2012-04
+risk::6::financing,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::234040612,P_029,2012-04
+risk::6::financing,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::1790496,P_029,2012-04
+risk::7::resettlement,risk::8::safety,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::604772014,P_029,2012-04
+risk::8::safety,risk::7::resettlement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::604772014,P_029,2012-04
+risk::9::disbursement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::163370901,P_029,2012-04
+risk::9::disbursement,risk::13::capacity,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::316629001,P_029,2012-04
+risk::9::disbursement,risk::2::environment,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::138591090,P_029,2012-04
+risk::9::disbursement,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::987695454,P_029,2012-04
+risk::9::disbursement,risk::3::procurement,CO_OCCURS,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::758263355,P_029,2012-04
+risk::9::disbursement,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::586810201,P_029,2012-04
+risk::9::disbursement,risk::3::procurement,CO_OCCURS,0.3,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_101::799931955,P_029,2012-04
+risk::13::capacity,risk::13::capacity,DELAYS_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_125::59580022,P_029,2012-04
+risk::3::procurement,risk::3::procurement,DELAYS_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::50999208,P_029,2012-04
+risk::4::institutional,risk::4::institutional,DELAYS_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_150::606185574,P_029,2012-04
+risk::10::security,risk::10::security,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_61::215314628,P_029,2012-04
+risk::11::inflation,risk::11::inflation,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_9::157710014,P_029,2012-04
+risk::13::capacity,risk::13::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_22::827459930,P_029,2012-04
+risk::13::capacity,risk::13::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+risk::13::capacity,risk::13::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+risk::13::capacity,risk::13::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_129::749673492,P_029,2012-04
+risk::13::capacity,risk::13::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+risk::21::coordination,risk::21::coordination,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_6::728802362,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_19::924680738,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_20::626568241,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_31::284428760,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::311480623,P_029,2012-04
+risk::2::environment,risk::2::environment,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::831351544,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::675952233,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::798399309,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::442794383,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_113::430505242,P_029,2012-04
+risk::3::procurement,risk::3::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+risk::4::institutional,risk::4::institutional,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_1::185610158,P_029,2012-04
+risk::4::institutional,risk::4::institutional,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_150::713984988,P_029,2012-04
+risk::4::institutional,risk::4::institutional,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_161::706810139,P_029,2012-04
+risk::5::quality,risk::5::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_2::183062782,P_029,2012-04
+risk::5::quality,risk::5::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_53::312188486,P_029,2012-04
+risk::5::quality,risk::5::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_113::430505242,P_029,2012-04
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_3::750141808,P_029,2012-04
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_6::320542376,P_029,2012-04
+risk::6::financing,risk::6::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_31::284428760,P_029,2012-04
+risk::10::security,claim::2::dispute,LEADS_TO_CLAIM,0.3,0.6,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::227930282,P_029,2012-04
+risk::10::security,claim::3::arbitration,LEADS_TO_CLAIM,0.3,0.6,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::227930282,P_029,2012-04
+risk::23::contingency,claim::1::claims,LEADS_TO_CLAIM,1.0,0.6,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_59::86445876,P_029,2012-04
+action::101::the project will provide capac,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_39::519110,P_029,2012-04
+action::102::capacity building will include,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_39::996883219,P_029,2012-04
+action::106::the project scope was streamli,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_39::554764756,P_029,2012-04
+action::106::the project scope was streamli,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_40::554764756,P_029,2012-04
+action::108::to address the government’s cr,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_40::428886377,P_029,2012-04
+action::109::in terms of contributing to im,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_41::805728554,P_029,2012-04
+action::110::the proposed institutional arr,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_41::583880704,P_029,2012-04
+action::113::as indicated in more detail in,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_41::526235913,P_029,2012-04
+"action::115::in order to mitigate this, the",risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_42::972903352,P_029,2012-04
+action::116::the project will also include,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_42::488274398,P_029,2012-04
+action::117::the newly appointed deputy cha,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_42::669744233,P_029,2012-04
+"action::123::to mitigate this risk, the pro",risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_43::811428600,P_029,2012-04
+action::130::the online nature of the regis,risk::10::security,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_44::291675633,P_029,2012-04
+action::131::the project‘s support for lega,risk::18::enhancement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_45::20332976,P_029,2012-04
+action::135::the project currently does not,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::856398400,P_029,2012-04
+action::135::the project currently does not,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_100::656750088,P_029,2012-04
+action::138::a time -bound action plan aime,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::198104755,P_029,2012-04
+"action::139::according to this plan, condit",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::758263355,P_029,2012-04
+"action::139::according to this plan, condit",risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_47::758263355,P_029,2012-04
+action::13::joint implementation of these,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_19::924680738,P_029,2012-04
+action::143::the ceiling for the design ate,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_48::395198609,P_029,2012-04
+action::143::the ceiling for the design ate,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_108::256759359,P_029,2012-04
+"action::145::hence, provision for use of a",risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_48::39744029,P_029,2012-04
+"action::145::hence, provision for use of a",risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_108::39744029,P_029,2012-04
+action::147::if the issues are resolved sub,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::833373681,P_029,2012-04
+action::149::procurement of goods and works,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::715183386,P_029,2012-04
+"action::150::specifically, procurement of g",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::234040612,P_029,2012-04
+"action::150::specifically, procurement of g",risk::6::financing,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::234040612,P_029,2012-04
+action::151::procurement will be the respon,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::113032173,P_029,2012-04
+action::151::procurement will be the respon,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::812827631,P_029,2012-04
+action::152::scispm will also need to imple,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::153909290,P_029,2012-04
+action::152::scispm will also need to imple,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::153909290,P_029,2012-04
+action::153::scispm will need to hire a pro,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_49::187162418,P_029,2012-04
+action::154::scispm will need to hire a pro,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::935821716,P_029,2012-04
+"action::155::moreover, in order to mitigate",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::502222169,P_029,2012-04
+action::156::the project consists purely of,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::923452965,P_029,2012-04
+action::156::the project consists purely of,risk::7::resettlement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_50::923452965,P_029,2012-04
+action::157::responding to the identified e,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::332235041,P_029,2012-04
+action::157::responding to the identified e,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::332235041,P_029,2012-04
+action::158::the key safeguards instrument,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+action::158::the key safeguards instrument,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_51::92440220,P_029,2012-04
+action::15::this is anticipated to lay the,risk::14::political,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_21::460402780,P_029,2012-04
+"action::164::second, the government needs t",risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_53::836772639,P_029,2012-04
+"action::164::second, the government needs t",risk::14::political,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_53::836772639,P_029,2012-04
+action::165::it is one of the declared obje,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::152069850,P_029,2012-04
+action::165::it is one of the declared obje,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_55::152069850,P_029,2012-04
+action::166::project development objective,risk::10::security,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_56::904206044,P_029,2012-04
+action::16::to complement the general busi,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_21::762963877,P_029,2012-04
+action::171::nbt‘s it system for bank super,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::235026350,P_029,2012-04
+action::172::areas to be covered under new,risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::102607721,P_029,2012-04
+action::172::areas to be covered under new,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::102607721,P_029,2012-04
+"action::173::in the first year, the formal",risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_64::477618156,P_029,2012-04
+"action::173::in the first year, the formal",risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_65::477618156,P_029,2012-04
+action::181::volume of bank support: enabli,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_66::393012349,P_029,2012-04
+action::18::the project will address regul,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_22::969087279,P_029,2012-04
+action::195::activities undertaken in these,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+action::195::activities undertaken in these,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_69::946549387,P_029,2012-04
+action::208::the single window for construc,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_72::600023906,P_029,2012-04
+"action::20::50769 -tj), which contained ac",risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_22::648225612,P_029,2012-04
+action::215::this component wil l be coordi,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::448651023,P_029,2012-04
+"action::217::specifically, the project will",risk::10::security,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::227930282,P_029,2012-04
+action::219::the project will finance the p,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::849682573,P_029,2012-04
+action::221::the activitie s under this sub,risk::24::bidding,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_74::284658871,P_029,2012-04
+action::224::this component will be coordin,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_75::537834790,P_029,2012-04
+action::224::this component will be coordin,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_76::134960974,P_029,2012-04
+action::225::as the project focuses on impr,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_76::423881392,P_029,2012-04
+"action::229::specifically, this sub-compone",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_77::114408881,P_029,2012-04
+"action::23::for the mining sector, the pro",risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_23::942500118,P_029,2012-04
+action::250::this sub -component will also,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_79::800118413,P_029,2012-04
+action::256::the project‘s support for lega,risk::18::enhancement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_80::375229514,P_029,2012-04
+action::257::ta to nbt - strengthening of b,risk::10::security,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_80::849900895,P_029,2012-04
+action::265:: stress test methodology: the,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_82::58710093,P_029,2012-04
+action::268:: contingency planning and cri,risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_82::695722390,P_029,2012-04
+action::269:: training and capacity buildi,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_82::435166872,P_029,2012-04
+action::26::entrepreneurs operating in the,risk::17::suppliers,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_24::310553346,P_029,2012-04
+action::272::procurement of new hardware se,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_83::694323809,P_029,2012-04
+action::273::development of a software pack,risk::10::security,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_83::906892345,P_029,2012-04
+action::278::the consultant‘s report will i,risk::15::tender,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::257421240,P_029,2012-04
+action::278::the consultant‘s report will i,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::257421240,P_029,2012-04
+action::27::residents of communities in ar,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_24::505296966,P_029,2012-04
+action::280::the consultant will then prepa,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::891290221,P_029,2012-04
+action::281::an institutional development s,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::320631085,P_029,2012-04
+action::283::the advisor will provide recom,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_90::985920658,P_029,2012-04
+action::283::the advisor will provide recom,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_91::312245076,P_029,2012-04
+action::286::an important part of this tech,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_91::407899928,P_029,2012-04
+action::286::an important part of this tech,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_91::407899928,P_029,2012-04
+action::299::these experts have recently be,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::69848116,P_029,2012-04
+action::299::these experts have recently be,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_96::69848116,P_029,2012-04
+action::301:: pmu: the project currently d,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::249430525,P_029,2012-04
+action::302::the tors will be reviewed for,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::837070658,P_029,2012-04
+action::303::the scispm will be the impleme,risk::20::implementing agency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_100::853378461,P_029,2012-04
+action::303::the scispm will be the impleme,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_100::853378461,P_029,2012-04
+action::314::the following action plan has,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::998097214,P_029,2012-04
+action::315::the fm chapter will reflect th,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::173349940,P_029,2012-04
+action::317::organize training on the world,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::163370901,P_029,2012-04
+action::317::organize training on the world,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::316629001,P_029,2012-04
+action::317::organize training on the world,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_102::163370901,P_029,2012-04
+action::317::organize training on the world,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::316629001,P_029,2012-04
+action::318::recruit a full time paid fm co,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::863441512,P_029,2012-04
+"action::319::under the project, the pmu wil",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::675952233,P_029,2012-04
+action::323::the annual budget will be prep,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_103::798399309,P_029,2012-04
+action::330::the fm staff within the pmu wi,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_104::941879565,P_029,2012-04
+action::338::the fm consultant will need to,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_105::294450911,P_029,2012-04
+action::33::the project will provide the n,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_26::870294009,P_029,2012-04
+action::341::this section of the pom will a,risk::22::conflict,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_105::60509721,P_029,2012-04
+action::345::the scispm will need accountin,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_106::750711847,P_029,2012-04
+"action::347::the reports, to include statem",risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_106::100386526,P_029,2012-04
+action::354::details on the ceiling of the,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_107::223546207,P_029,2012-04
+action::358::this information will be made,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_108::725340662,P_029,2012-04
+action::361::this review will include the f,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::138591090,P_029,2012-04
+action::361::this review will include the f,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_109::138591090,P_029,2012-04
+action::363::scispm will also need to imple,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::716813898,P_029,2012-04
+action::363::scispm will also need to imple,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::716813898,P_029,2012-04
+action::364::given su ch an intensive workl,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::622143098,P_029,2012-04
+action::364::given su ch an intensive workl,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::622143098,P_029,2012-04
+"action::365::to mitigate these risks, inten",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_110::54548061,P_029,2012-04
+"action::366::rocurement trainings, includin",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::662598027,P_029,2012-04
+action::367::procurement of goods and works,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::1790496,P_029,2012-04
+action::367::procurement of goods and works,risk::6::financing,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::1790496,P_029,2012-04
+action::368::initial procurement plan cover,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::632381423,P_029,2012-04
+action::371::a general procurement notice w,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_111::187172476,P_029,2012-04
+action::371::a general procurement notice w,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::187172476,P_029,2012-04
+action::372::a general procurement notice (,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::752461053,P_029,2012-04
+action::373::more details on the procuremen,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::292652435,P_029,2012-04
+action::374::goods contracts include severa,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::867171671,P_029,2012-04
+action::375::other contracts for procuremen,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::302284939,P_029,2012-04
+action::376::consultants' services would in,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::470301953,P_029,2012-04
+action::378::budget for operating costs wil,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::442794383,P_029,2012-04
+action::379::procurement reviews and superv,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_112::986859780,P_029,2012-04
+action::384::completion of an online on-sto,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_122::661692374,P_029,2012-04
+action::384::completion of an online on-sto,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_122::661692374,P_029,2012-04
+action::390::adoption and implementation of,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_123::194762592,P_029,2012-04
+"action::391::ved by the first initiative, a",risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_124::261180777,P_029,2012-04
+action::392::resp: bank stage: preparation,risk::20::implementing agency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_124::4274572,P_029,2012-04
+action::395::the bank will conduct an asses,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_125::28868745,P_029,2012-04
+action::398::in public administration from,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_125::58375456,P_029,2012-04
+action::3::r economic cooperation and dev,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_2::183062782,P_029,2012-04
+action::400::strong interest in scispm for,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_126::76638598,P_029,2012-04
+action::405::cooperation: it was agreed tha,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_126::272883436,P_029,2012-04
+action::406::l the main agencies and the pr,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_127::679251098,P_029,2012-04
+action::408::the project will bring in inte,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_127::290450550,P_029,2012-04
+action::411::it packages procurement: the r,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_127::529555491,P_029,2012-04
+action::412::project design will include su,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_127::839702374,P_029,2012-04
+action::416::it packages procurement: the t,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_128::308658192,P_029,2012-04
+action::417::resp: bank stage: preparation,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_128::87103695,P_029,2012-04
+action::418::this project will work in clos,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_129::836438596,P_029,2012-04
+action::419::there are no other donors invo,risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_129::820363795,P_029,2012-04
+action::421::project sustainability: the pr,risk::18::enhancement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_129::735520348,P_029,2012-04
+action::423::staff retention: the project t,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::309142676,P_029,2012-04
+action::424::new it systems: the team will,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+action::424::new it systems: the team will,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_130::790136231,P_029,2012-04
+action::428::formal supervision and field v,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_131::224013887,P_029,2012-04
+action::42::an assessment and recommendati,risk::4::institutional,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_28::336197300,P_029,2012-04
+action::435::areas for particular review wi,risk::6::financing,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_131::967552982,P_029,2012-04
+"action::436::during project implementation,",risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_131::433485451,P_029,2012-04
+action::437::as part of its project supervi,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_132::883257263,P_029,2012-04
+action::438::a dedicated procurement specia,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_132::910344255,P_029,2012-04
+action::439::implementation support mission,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_132::666478326,P_029,2012-04
+action::43::this sub-component will also i,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_28::364659721,P_029,2012-04
+action::443::partners name institution/coun,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_137::532401962,P_029,2012-04
+action::445::nbt should focus its superviso,risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_148::522290705,P_029,2012-04
+action::446::engage their management and sh,risk::23::contingency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_149::594402619,P_029,2012-04
+action::44::this sub-component will suppor,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_29::739599234,P_029,2012-04
+action::52::workshops will be organized fo,risk::18::enhancement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_30::449024502,P_029,2012-04
+"action::53::in addition, support will be p",risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_30::48160553,P_029,2012-04
+action::5::name recurrent due date freque,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_7::247011332,P_029,2012-04
+action::62::the project will include l imi,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_32::251836079,P_029,2012-04
+"action::73::finally, if outcomes (taxes, j",risk::2::environment,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_35::775365771,P_029,2012-04
+action::75::the scispm will be the impleme,risk::20::implementing agency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_36::577306742,P_029,2012-04
+action::75::the scispm will be the impleme,risk::20::implementing agency,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_95::577306742,P_029,2012-04
+action::77::in order to strengthen the cap,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_36::131277951,P_029,2012-04
+action::77::in order to strengthen the cap,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_36::131277951,P_029,2012-04
+action::85::the scope of work of the psc w,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+action::85::the scope of work of the psc w,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::831351544,P_029,2012-04
+action::85::the scope of work of the psc w,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::729038515,P_029,2012-04
+action::86:: pmu: the project currently d,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::917377432,P_029,2012-04
+action::87::it will be charged with fiduci,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::725487283,P_029,2012-04
+action::87::it will be charged with fiduci,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::84543126,P_029,2012-04
+action::88::the pmu will be responsible fo,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::987695454,P_029,2012-04
+action::88::the pmu will be responsible fo,risk::3::procurement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::586810201,P_029,2012-04
+action::88::the pmu will be responsible fo,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_37::987695454,P_029,2012-04
+action::88::the pmu will be responsible fo,risk::9::disbursement,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_97::586810201,P_029,2012-04
+action::92::project coordinators will rema,risk::21::coordination,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::865391143,P_029,2012-04
+action::93::the tors will be reviewed for,risk::15::tender,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::681341006,P_029,2012-04
+action::93::the tors will be reviewed for,risk::15::tender,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_98::321684771,P_029,2012-04
+action::93::the tors will be reviewed for,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::681341006,P_029,2012-04
+action::93::the tors will be reviewed for,risk::5::quality,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_98::321684771,P_029,2012-04
+action::97::discussions during supervision,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_38::940120894,P_029,2012-04
+action::97::discussions during supervision,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_39::36262013,P_029,2012-04
+action::99::the government and implementin,risk::13::capacity,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_39::791011367,P_029,2012-04
+action::9::the tender process has been mo,risk::15::tender,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_17::370066775,P_029,2012-04
+action::9::the tender process has been mo,risk::15::tender,MITIGATES,0.6,0.55,ev::41a3088c870b92c46068a03e2223487d123610de::41a3088c870b92c46068a03e2223487d123610de_85::704591588,P_029,2012-04

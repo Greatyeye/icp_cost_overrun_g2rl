@@ -1,0 +1,8 @@
+action_id,description,cost,target_risk_taxonomy,affect_node_prob_mult,affect_node_sev_mult,affect_node_conf_mult,target_edge_types,affect_edge_weight_mult,affect_edge_conf_mult
+A1,Reallocate contingency to key risks,200,Price/Inflation/FX;Procurement & Supply,0.85,0.90,0.90,INCREASES_COST_OF;LEADS_TO_CLAIM,0.85,1.00
+A2,Lock-in price via framework agreement,180,Price/Inflation/FX;Procurement & Supply,0.90,0.95,0.95,INCREASES_COST_OF,0.80,1.00
+A3,Second-source supplier strategy,220,Procurement & Supply,0.80,0.90,0.90,CAUSES;INCREASES_COST_OF,0.85,1.00
+A4,Accelerate change order approval,150,Claims & Change;Design & Scope,0.90,0.90,0.95,LEADS_TO_CLAIM;INCREASES_COST_OF,0.80,1.00
+A5,Claim negotiation & dispute resolution,250,Claims & Change,0.90,0.85,0.90,LEADS_TO_CLAIM;INCREASES_COST_OF,0.75,1.00
+A6,FX hedging,160,Price/Inflation/FX,0.85,0.95,0.95,INCREASES_COST_OF,0.80,1.00
+A7,Enhanced site supervision for quality,140,Quality & HSE,0.85,0.85,0.90,CAUSES;INCREASES_COST_OF,0.90,1.00

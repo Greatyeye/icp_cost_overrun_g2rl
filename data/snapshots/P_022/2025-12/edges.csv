@@ -1,0 +1,41 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_022,action::10::3éme indicateur de résultat in,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::11::ces papj permettront la mise e,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::12::les actions inscrites dans les,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::13::ces critères mesureront notamm,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::14::une fois la première série d’a,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::15::une fois la première série d’a,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::16::cette action met l'accent sur,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::17::consultants et de formation re,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::18::le mdjl a fait partie du proje,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::19::cer : le projet permettra de f,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::1::arché ism institut supérieur d,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::20::activités à financer : le proj,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::2::le projet comportera trois com,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,"action::3::le processus d’apprentissage,",ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::4::– développement d’une planific,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::5::oppement et mise en œuvre d’un,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::6::sous-composante 2.4.2 : appuye,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::7::les évaluations de la banque o,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::8::ce processus de consultation s,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,action::9::un des facteurs clés sera la p,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::1::coordination,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::2::accidents,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+project::P_022,risk::2::accidents,ASSOCIATED_WITH,1.0,0.55,,P_022,2025-12
+risk::1::coordination,risk::1::coordination,INCREASES_COST_SIGNAL,1.0,0.5,ev::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5_33::163763250,P_022,2025-12
+risk::1::coordination,risk::1::coordination,INCREASES_COST_SIGNAL,1.0,0.5,ev::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5_40::156841843,P_022,2025-12
+risk::1::coordination,risk::1::coordination,INCREASES_COST_SIGNAL,1.0,0.5,ev::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5::d2ae9f5bf7d4e89e2e5341fda27467dc9c532cf5_88::756524415,P_022,2025-12

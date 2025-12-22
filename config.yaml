@@ -1,0 +1,29 @@
+llm:
+  base_url: "https://generativelanguage.googleapis.com/v1beta/openai/"   # 你的OpenAI-compatible服务
+  api_key: "AIzaSyBVbbwY0p3JKHopkULJ-ocN-7nEanZgXYA"
+  model: "gemini-flash-latest"
+  timeout_sec: 90
+  max_retries: 3
+
+chunking:
+  max_chars: 1800
+  overlap_chars: 200
+
+ontology:
+  node_types: ["Project","Risk","Claim","Stakeholder","Resource","Activity","Contract","ExternalEvent"]
+  relation_types: ["CAUSES","INCREASES_COST_OF","LEADS_TO_CLAIM","DELAYS","MITIGATES","ASSOCIATED_WITH"]
+
+linking:
+  cosine_merge_hi: 0.85
+  cosine_review_lo: 0.78
+  fuzzy_merge_hi: 90
+
+snapshots:
+  freq: "M"     # 按月快照
+  time_decay_gamma: 0.05
+
+gnn:
+  hidden_dim: 64
+  lr: 0.001
+  epochs: 80
+  batch_size: 1

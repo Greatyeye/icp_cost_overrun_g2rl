@@ -1,0 +1,2 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_006,action::1::consider ando las necesidades,ASSOCIATED_WITH,1.0,0.55,,P_006,2025-12

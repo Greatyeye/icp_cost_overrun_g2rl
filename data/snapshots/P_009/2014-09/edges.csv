@@ -1,0 +1,1263 @@
+src,dst,edge_type,weight,confidence,evidence_id,project_id,time
+project::P_009,action::100::they will also be the basis fo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::101::in addition, the bank mission",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::102::wfp, fao and the world bank wi",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::103::other institutions (such as lo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::104::the frequency and the content,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::105::food security, market , and nu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::106::the services of a consultant o,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::107::the evaluation will assess som,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::108::the evaluation will also provi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::109::the evaluation will also provi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::10::the additional bank commitment,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::110::it is important to emphasize t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::111::yet although the project’s act,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::112::for example, by improving food",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::113::the basic inputs and training,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::114::the vaccination campaign and a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::115::interventions under the propos,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::116::the activities supported under,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::117::returnees, refugees, and host",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::118::for example, the regional live",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::119::these linkages with long-term,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::11::the bank will use its convenin,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::120::key risks and mitigation measu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::121::the proposed project could fac,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::122::the major external risks are d,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,"action::123::to mitigate such risks, the pr",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::124::the proposed project responds,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::125::each of the aforementioned org,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::126::the project’s efficiency will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::127::specifically, the proposed ope",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::128::through these activities, the",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::129::these externalities of the pro,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::12::the proposed emergency project,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::12::the proposed emergency project,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::130::it will also contribute to ini,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::130::it will also contribute to ini,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::131::access to certified seed, fert",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::132::a critical assumption is that,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::133::the project will use a voucher,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::134::this strategy will further enh,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::135::for the proposed project, the",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::136::despite the se arrangements, t",ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::137::the agreements for supplies an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::138::the eapsp will use its existin,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::139::wfp and fao will handle the fi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::13::more specifically, the project",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::140::wfp and fao will handle the fi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::141::they will maintain separate le,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::142::wfp and fao will be required t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::142::wfp and fao will be required t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::143::no designated account will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::143::no designated account will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::144::a blanket commitment will be s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::144::a blanket commitment will be s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::145::the grant will finance 100 per,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::145::the grant will finance 100 per,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::146::on august 22, 2014, the financ",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::147::alternative mechanisms (detail,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::148::first, at least two field-base",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::149::the supervision intensity will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::149::the supervision intensity will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::14::it will also provide specializ,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::150::second, the government of chad",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::151::procurement for the proposed p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::151::procurement for the proposed p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::152::contract awards will also be p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::152::contract awards will also be p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::152::contract awards will also be p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::153::project activities will also b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::154::it will be available in the pr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::154::it will be available in the pr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::155::the procurement plan will be u,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::155::the procurement plan will be u,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::156::the environmental and social i,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::157::specific mitigation measures w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::158::the proposed interventions wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::159::an environmental and social sc,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::15::at the same time, the proposed",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::160::the objective of the essaf and,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::161::in particular, the essaf will",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::162::the emphasis in the essaf is o,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::163::two safeguards policies are tr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::164::it will also support the const,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::165::it will also support the const,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::166::the project will also support,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::166::the project will also support,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::167::the esmf addresses proposed im,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::168::based on the outcomes of the s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::168::based on the outcomes of the s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::169:: op/bp 4.09 is triggered beca,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::169:: op/bp 4.09 is triggered beca,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::16::the proposed approach of provi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::170::the recipient will address op,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::170::the recipient will address op,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::170::the recipient will address op,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::171::the revised ppmp will include,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::171::the revised ppmp will include,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::172::op/bp 4.12 (involuntary resett,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::172::op/bp 4.12 (involuntary resett,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::173::table 5: safeguards policies t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::174::a study by the u nited nations,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::175::projections of cropped area un,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::176::to minimize the risks of confl,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::177::th e mediation committee for c,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::178::more training will be provided,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::179::detailed descriptions of proje,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::17::4 adverse pregnancy outcomes;,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::180::the proposed project does not,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::181::these results are at project l,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::182::intermediate results indicator,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::183::the proposed emergency project,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::184::the proposed emergency project,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::185::this objective will be achieve,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::186::the project’s main beneficiari,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::187::more details will be provided,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::188::beneficiaries will be identifi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::189::beneficiaries will include ref,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::18::the proposed project therefore,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::190::since project activities will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::191::4.12 will not be triggered.,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::192::targeted food assistance will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::193::vouchers will be provided for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::194::lists of individuals who will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::195::vouchers will be distributed m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::195::vouchers will be distributed m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::196::many refugees and returnees ha,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::197::to limit the possibility of un,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::198::each partner ngo will reconcil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::199::the ngos will receive advanced,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::19::the proposed emergency p rojec,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::1::document of the world bank for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::200::for that reason, d irect food",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::201::food items will include basic,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::202::the timing of the switch betwe,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::203::in addition to the vouchers an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::204::about 8 percent of the populat,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::205::wfp will work with government,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::206::voucher distribution will be i,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::207::after that, th ose beneficiari",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::208::the world bank financing will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::209::it uses the food consumption s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::20::it will protect human capital,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::210::the activities of this subcomp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::211::the activities of this subcomp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::212::the activities of this subcomp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::213::at the start of the rainy seas,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::214::another 2,500 households culti",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::215::in upland areas, 2,500 househo",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::216::seed for dry -season garden pr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::217::seed for the rainy season crop,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::217::seed for the rainy season crop,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::218::to ensure that planting materi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::219::these seed production groups w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::21::the project will also improve,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::220::arrangements will be made to e,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::221::criteria for selecti ng benefi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::222::subcomponent activities will i,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::223::subcomponent activities will i,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::224::the subcomponent will finance,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::225::under the project 1,500,000 an",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::226::the exact breakdown of vaccina,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::227::this activity will be implemen,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::228::under this subc omponent, 1,50",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::229::criteria for selecting benefic,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::22::the proposed project constitut,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::230::the distribution period will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::230::the distribution period will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::231::the type of feed selected will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::232::the type of feed selected will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::233::activities will include (i) th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::234::the proposed emergency food an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::235::host population households and,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::236::to ensure that the proposed em,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::237::wfp will implement activities,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::238::both agencies are already on t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::239::to ensure good management and,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::23::the government’s national food,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::240::the respective contracts to be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::241::the government of chad will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::242::the government of chad will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::243::the existing coordination unit,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::244::since the government of chad w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::245::the main findings of the revie,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::246::the remainder of this annex in,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::247::box a3.1: summary of the finan,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::248::these agencies will follow the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::249::es faced by the government of,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::24::the proposed project also clea,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::250::these agencies will follow the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::251::the financial management arran,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::252::the un agencies will be consid,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::253::in addition:  under the propo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::254:: on month after effectiveness,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::255::said contracts will include in,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::256::the fao team will include: (i),ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::257:: following project effectiven,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::258::the manual will provide detail,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::259::despite the arrangements descr,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::25::the proposed project will bene,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::260::residual risk rating for the p,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::261::the government is engaged in s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::262::financial management risk asse,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::263::financial management risk asse,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::264::on the other hand, potential s",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::265::another strength is that the s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::266::table a3.1 summarizes the inhe,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::267::table a3.2 summarizes the fm a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::268::the measures included in the a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::269::table a3.1: inherent and contr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::26::the pdo will be achieved throu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::270::sk mitigation measures residua,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::271::h public financial management,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::272::bank support will be oriented,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::273::h entity delayed project imple,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::274::s a procedures manual will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::275::a steering committee will be s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::275::a steering committee will be s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::276::m wfp and fao budgeting arrang,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::277::however, the agreement with th",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::278::m accounting m wfp and fao acc,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::279::m wfp and fao will have dedica,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::27::the main beneficiaries of the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::280::s the procedures manual to be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::281::internal control practices wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::282::the format of ifrs to be submi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::283::two blanket commitments will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::284::ifrs will show financial and p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::285::table a3.2: financial manageme,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::286::said contracts will include in,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::287::the budgeting process, from de",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::288::the piu for eapsp will be res,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::289::each supplier will maintain a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::28::these target groups will be as,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::290::each supplier will maintain a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::291::the project ’s internal contro,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::292::upon project effectiveness, ap",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::293::the special world bank disburs,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::294::funds withdrawn from the ida c,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::295::the amount advanced will be do,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::296::the government will prepare a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::297::flow of documents flow of fund,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::298::the ifrs will show financial a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::299::the consolidated report will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::29::ection from the permanent deve,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::2::i currency equivalents (exchan,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::300::since no funds will be managed,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::301::however, mechanisms will be pu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::302::however, mechanisms will be pu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::303::such mechanisms will include a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::304::the supervision intensity will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::305::in addition, the government wi",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::306::finally, the bank fm team will",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::307::the fm implementation support,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::308::a review of the funds transfer,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::308::a review of the funds transfer,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::309::based on the outcome of the fm,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::30::more details will be provided,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::310::based on the outcome of the fm,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::311::the on -site supervision inten,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::312::39 table a3.3: financial manag,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::313::procuremen t (goods and non -c,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::314::the procurement plan will be u,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::315::a comprehensive general procur,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::316::in the case of national compet,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::317::these supplies will be procure,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::318::the following procurement meth,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::318::the following procurement meth,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::319::consulting services will be us,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::31::beneficiaries will be selected,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::320::the consulting services will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::321::selection based on cqs will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::322::all terms of reference will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::323::consultants for services meeti,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::324::consultants for services meeti,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::325::institutional arrangements for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::326::the eapsp will prepare and man,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::327::in the implementation of compo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::328::risks identified and proposed,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::329::the procurement risk rating is,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,action::32::regular consultations with aff,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::32::regular consultations with aff,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::32::regular consultations with aff,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::330::the “guidelines on preventing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::331::if need be, a post review of p",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::332::table a3.4 lists the main good,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::333::all direct contracting will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::334::consultant services estimated,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::335::similarly, all audit contracts",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::336::description estimated cost (us,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,action::337::risk management: (i) continuou,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::338::(ii) a conflict prevention mec,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::339::beneficiaries will be identifi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::33::ious and community leaders wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::340::resp: both status: in progress,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,action::341::risk management: fao and wfp w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::342::risk management: strong fiduci,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::343::communication and awareness ca,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::344::fao, wfp and partners (interna",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::345::safeguards instruments will be,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::346::environmental and social manag,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::347::social safeguard issues will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::348::particular attention will be p,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::349::a capacity building plan will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::34::table 2: beneficiary category,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::34::table 2: beneficiary category,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::350::the world bank will work with,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::351::risk management: the project w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::352::resp: client status: in progre,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::353::risk management: the project w,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::354::resp: client status: in progre,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::354::resp: client status: in progre,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::355::the implementation of the proj,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::356::to accelerate the project ’s r,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::357::table a5.1: draft implementati,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::358::the objective of this essaf is,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::359::recognizing the emergency natu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::35::since the project’s activities,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::360::the exact location of these in,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::361::in addition, the operation wil",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::362::to ensure effective applicatio,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::363::lanning of mitigation measures,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::364::nevertheless, the agricultural",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::365::the government of chad , and t",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::366::for livestock activities, graz",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::367:: socioeconomic opportunities,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::368::consultations will be conduc t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::369::49  consultation and disclosu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::36::they will not trigger op.,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::370::the full essaf will be disclos,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::371::for this reason, preparation n",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::372::activities supported by the pr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::373::this policy is triggered becau,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::374::small-scale reconstruction and,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::375::an environmental and social ma,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::376::the revised ppmp will be avail,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::377::the project will not take plac,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::378::the project is unlikely to inv,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::379::the government will follow its,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::37::to deal with potential conflic,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::37::to deal with potential conflic,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::380::the project activities will no,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::381::the project activities will no,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::382::the agriculture activities wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::383::the proposed operation will fi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::384::this policy will not be trigge,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::385::this policy will not be trigge,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::386::the project activities will no,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::387::the essaf and or other afore m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::388::safeguards screening and mitig,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::389::the essaf provides a framework,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::38::the following indicators will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::390::the following guidelines, code",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::391::the safeguards screening and m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::392::the safeguards screening and m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::393:: steps for screening potentia,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::394:: a proposed checklist of like,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::395:: relevant elements of the cod,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::396::responsibilities for safeguard,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::397::a number of ministries and oth,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::398::wfp and fao will be responsibl,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::399::the wfp and fao will ensure th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::399::the wfp and fao will ensure th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::39::this component will enable wfp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::3::ial management framework esmp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::400::the project will thus rely on,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::401::as part of the capacity buildi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::402::during supervision of these ac,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::403::the proposed project will ther,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::404::the capacity-building plan wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::405::during the project ’s implemen,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::406::ida funding will support a num,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::407::ida funding will support a num,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::408::the implementing agencies will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::409::the impl ementing agencies wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::40::accordingly, for eight months",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::40::accordingly, for eight months",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::410::to ensure that the consultatio,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::411::as required for all environmen,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::412::the preparation and implementa,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::413::wfp and fao will make all reas,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::414::the essaf will be shared with,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::414::the essaf will be shared with,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::415::it will be disclosed within th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::416::it will also be made available,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::417::specific safeguards documents,",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::418::finally, fao and wfp will make",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::419::once the potential impacts of,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::41::beneficiaries with vouchers an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::420::esmps provide an essential lin,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::420::esmps provide an essential lin,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::421::institutions/entities responsi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::421::institutions/entities responsi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::422::53 attachment 1 negative attri,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::423::54 attachment 2 steps for scre,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::424::environmental and social impac,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::425::screening of potential environ,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::426::o a proposed checklist of like,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::427:: step 2: definition of the en,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::428:: step 3: review of the safegu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::429::the review, which may be condu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::42::beneficiaries with vouchers an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::42::beneficiaries with vouchers an,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::430::the review, which may be condu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::431:: step 4: preparation of safeg,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::432::the esmp will be submitted to,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::433::the documentation of the proce,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::434:: step 5: application of the s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::435::the performance of the contrac,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::436::o if applicable, fao will ensu",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::437::o wfp and fao will supervise a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::438::wfp and fao will also develop,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::439::note that one copy of this for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::43::in the remaining four months o,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::440::name of project: description o,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::441::other scheme estimated costs:,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::442::will project activities affect,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::443::will project activities involv,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::444::will activities be subject to,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::445::will project activities requir,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::446::will project activities requir,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::447::will project activities requir,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::448::will project activities genera,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::449::will project activities result,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::44::children aged 6 –23 months, wh",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::450::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::451::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::452::will activities involve the us,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::453::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::454::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::455::noise and air pollution hazard,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::456::will project activities increa,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::456::will project activities increa,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::457::will project activities involv,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::457::will project activities involv,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::458::will project activities involv,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::459::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::45::lists of individuals who will,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::460::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::461::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::462::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::463::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::464::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::465::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::466::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::467::will project activities have a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::468::will project activities have a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::469::will project activities have a,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::46::they will check the beneficiar,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::46::they will check the beneficiar,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::470::will project activities involv,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::471::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::472::will project activities lead t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::473::will project activities negati,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::474::that the owner will not claim,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::475::that the owner will receive co,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::476::that the provisions of this ag,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::477::______________________________,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::478::fao and wfp and their employee,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::479::remedial actions which cannot,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::47::wfp will use its extensive exp,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::480::adequate traffic control measu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::481::this will require lubricants t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::482::this will require lubricants t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::483::(iv) notify the authorities wh,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::484::(viii) activities work will re,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::484::(viii) activities work will re,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::485::debris generated due to the di,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::486::all arrangements for transport,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::487::an oil interceptor will be pro,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::488::an oil interceptor will be pro,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::489::the environmental assessment (,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::48::under its current emergency op,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::490::as an integral part of ea, esm",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::491::the world bank guidelines stat,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::492::under the proposed project, th",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::493::the esmp should include pestic,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::494::description of mitigation meas,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::495::feasible and cost-effective me,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::496::further, t he environmental ma",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::497::the emp should also distinguis,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::498::in order to ensure that the pr,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::499::the monitoring program should,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::49::wfp intends to extend this ope,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::4::key risks and mitigation measu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::500::timing, frequency , and durati",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::501::feedback mechanisms to inform,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::501::feedback mechanisms to inform,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::502::implementation of mitigation m,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::503::the emp should include cost es,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::504::the costs for implementing the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::50::world bank funding will repres,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::51::under this component, the prop",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::52::for those reasons, the project",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::53::16 many refugees and returnees,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::54::the activities will be impleme,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::54::the activities will be impleme,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::55::this subcomponent will provide,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::55::this subcomponent will provide,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::56::it will also finance the const,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::56::it will also finance the const,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::57::in addition, through support t",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::57::in addition, through support t",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::58::these activities could be expa,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::59::this subcomponent will support,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::5::nt martien van nieuwkoop juerg,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,action::60::subcomponent b.3 : support for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::60::subcomponent b.3 : support for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::61::this subcomponent will help to,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::61::this subcomponent will help to,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::62::activities will include: (i) t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::63::tion and mark-up of 250 kilome,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::64::this subcomponent will be impl,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::65::the decentralized institutions,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::66::experience and results from th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::67::yet governments will still nee,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::68::th e proposed project has a si,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::69:: despite the bank’s efforts t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::6::vii proposed development objec,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::6::vii proposed development objec,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::70::the proposed project will esta,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::71::the proposed project will esta,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::72::the project will be under the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::73::responsibility for overall coo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::74::owing to the government’s limi,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::75::wfp will provide services for,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::76::the cost s of fao’s and wfp ’s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::77::wfp will ensure the coordinati,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::77::wfp will ensure the coordinati,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::78::c omponent a will be implement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::79::c omponent a will be implement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::7::the local population , which e",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::80::nutrition interventions will b,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::81::nutrition ngos will organize s,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::82::national and international ngo,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::83::ngos will be chosen based on t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::84::potential partners include the,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::85::wfp will cooperate with govern,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::86::12 will be implemented by ngos,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::87::value-based paper vouchers wil,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::88::retailers will redeem the vouc,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::89::in the lean season , f ood wil",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::8::such problems could deplete th,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::90::the presence of wfp staff in t,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::91::to implement these activities,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::92::fao will partner with national,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::92::fao will partner with national,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::93::the central and decentralized,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::94::as discussed, the target areas",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::95::the prospective beneficiaries,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::96::in this instance, fao and wfp",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,"action::96::in this instance, fao and wfp",ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::97::the set of indicators have bee,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::98::both wfp and fao will submit q,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::99::those reports will be consolid,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,action::9::the growing concentration of l,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::1::claims,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::2::compensation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,claim::2::compensation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::10::financing,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::11::conflict,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::12::coordination,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::13::safety,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::14::border,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::14::border,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::14::border,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::14::border,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::14::border,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::15::land acquisition,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::16::prices rise,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::17::inflation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::17::inflation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::17::inflation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::17::inflation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::18::political,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::18::political,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::18::political,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::18::political,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::18::political,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::19::implementing agency,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::19::implementing agency,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::1::currency,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::20::quality,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::20::quality,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::20::quality,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::21::suppliers,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::22::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::22::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::22::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::22::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::22::disbursement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::23::bidding,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::23::bidding,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::23::bidding,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::23::bidding,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::24::contractor,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::24::contractor,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::24::contractor,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::24::contractor,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::24::contractor,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::25::expropriation,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::2::environmental,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::3::security,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::4::procurement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::5::resettlement,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::6::piu,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::7::capacity constraints,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::7::capacity constraints,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::7::capacity constraints,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::7::capacity constraints,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.6,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::8::capacity,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.65,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+project::P_009,risk::9::institutional,ASSOCIATED_WITH,1.0,0.55,,P_009,2014-09
+risk::11::conflict,risk::2::environmental,CAUSES,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_108::863278361,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CAUSES,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::576472563,P_009,2014-09
+risk::12::coordination,risk::18::political,CAUSES,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::891787289,P_009,2014-09
+risk::18::political,risk::12::coordination,CAUSES,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::891787289,P_009,2014-09
+risk::2::environmental,risk::11::conflict,CAUSES,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_108::863278361,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CAUSES,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::576472563,P_009,2014-09
+risk::10::financing,risk::11::conflict,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::10::financing,risk::21::suppliers,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::293810999,P_009,2014-09
+risk::10::financing,risk::21::suppliers,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_74::248655140,P_009,2014-09
+risk::10::financing,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::10::financing,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::10::financing,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::10::financing,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::10::financing,risk::3::security,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::10::financing,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::10::financing,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::10::financing,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::10::financing,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::10::financing,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::10::financing,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::10::financing,risk::9::institutional,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::11::conflict,risk::10::financing,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::11::conflict,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::11::conflict,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::11::conflict,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::11::conflict,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::943620257,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::230286398,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::70656257,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_48::554766670,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::399294960,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::11::conflict,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_62::609987531,P_009,2014-09
+risk::11::conflict,risk::9::institutional,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::12::coordination,risk::13::safety,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::12::coordination,risk::22::disbursement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::12::coordination,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::858702987,P_009,2014-09
+risk::12::coordination,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::888842194,P_009,2014-09
+risk::12::coordination,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::12::coordination,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_7::319583613,P_009,2014-09
+risk::12::coordination,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::12::coordination,risk::5::resettlement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::13::safety,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::13::safety,risk::24::contractor,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_111::269891425,P_009,2014-09
+risk::13::safety,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::13::safety,risk::5::resettlement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::13::safety,risk::5::resettlement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_46::540383891,P_009,2014-09
+risk::15::land acquisition,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::879779357,P_009,2014-09
+risk::15::land acquisition,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_102::462668780,P_009,2014-09
+risk::19::implementing agency,risk::2::environmental,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_35::506319066,P_009,2014-09
+risk::19::implementing agency,risk::2::environmental,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::524528698,P_009,2014-09
+risk::1::currency,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::1::currency,risk::3::security,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::20::quality,risk::4::procurement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+risk::21::suppliers,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::293810999,P_009,2014-09
+risk::21::suppliers,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_74::248655140,P_009,2014-09
+risk::22::disbursement,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::22::disbursement,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::22::disbursement,risk::6::piu,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_65::519771952,P_009,2014-09
+risk::24::contractor,risk::13::safety,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_111::269891425,P_009,2014-09
+risk::2::environmental,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::2::environmental,risk::10::financing,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::2::environmental,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::2::environmental,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::2::environmental,risk::11::conflict,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::2::environmental,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::2::environmental,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::2::environmental,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::943620257,P_009,2014-09
+risk::2::environmental,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::858702987,P_009,2014-09
+risk::2::environmental,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::888842194,P_009,2014-09
+risk::2::environmental,risk::15::land acquisition,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::879779357,P_009,2014-09
+risk::2::environmental,risk::15::land acquisition,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_102::462668780,P_009,2014-09
+risk::2::environmental,risk::19::implementing agency,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_35::506319066,P_009,2014-09
+risk::2::environmental,risk::19::implementing agency,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::524528698,P_009,2014-09
+risk::2::environmental,risk::1::currency,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::2::environmental,risk::3::security,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::2::environmental,risk::4::procurement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::2::environmental,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::632943043,P_009,2014-09
+risk::2::environmental,risk::4::procurement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::874146414,P_009,2014-09
+risk::2::environmental,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::2::environmental,risk::5::resettlement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::2::environmental,risk::6::piu,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::2::environmental,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::2::environmental,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_36::338469766,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_67::183428997,P_009,2014-09
+risk::2::environmental,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::2::environmental,risk::9::institutional,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::3::security,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::3::security,risk::1::currency,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::3::security,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+risk::3::security,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::12181506,P_009,2014-09
+risk::3::security,risk::8::capacity,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+risk::3::security,risk::8::capacity,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_39::480214068,P_009,2014-09
+risk::3::security,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::4::procurement,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::4::procurement,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::4::procurement,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_7::319583613,P_009,2014-09
+risk::4::procurement,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::4::procurement,risk::13::safety,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::4::procurement,risk::20::quality,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+risk::4::procurement,risk::22::disbursement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+risk::4::procurement,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::4::procurement,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::632943043,P_009,2014-09
+risk::4::procurement,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::874146414,P_009,2014-09
+risk::4::procurement,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::341952267,P_009,2014-09
+risk::4::procurement,risk::3::security,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::12181506,P_009,2014-09
+risk::4::procurement,risk::5::resettlement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::4::procurement,risk::5::resettlement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::4::procurement,risk::6::piu,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::4::procurement,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::880313937,P_009,2014-09
+risk::4::procurement,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::752890000,P_009,2014-09
+risk::4::procurement,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::578548313,P_009,2014-09
+risk::5::resettlement,risk::12::coordination,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::5::resettlement,risk::13::safety,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::5::resettlement,risk::13::safety,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_46::540383891,P_009,2014-09
+risk::5::resettlement,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::5::resettlement,risk::4::procurement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::5::resettlement,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::406212076,P_009,2014-09
+risk::5::resettlement,risk::6::piu,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::6::piu,risk::22::disbursement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_65::519771952,P_009,2014-09
+risk::6::piu,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::6::piu,risk::4::procurement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::6::piu,risk::5::resettlement,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::7::capacity constraints,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::7::capacity constraints,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::7::capacity constraints,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::7::capacity constraints,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::7::capacity constraints,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_2::783219784,P_009,2014-09
+risk::7::capacity constraints,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::7::capacity constraints,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_9::539763270,P_009,2014-09
+risk::7::capacity constraints,risk::8::capacity,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::8::capacity,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::8::capacity,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::8::capacity,risk::10::financing,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::230286398,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::70656257,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_48::554766670,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::399294960,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::8::capacity,risk::11::conflict,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_62::609987531,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_36::338469766,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_51::440521508,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_67::183428997,P_009,2014-09
+risk::8::capacity,risk::2::environmental,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::8::capacity,risk::3::security,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+risk::8::capacity,risk::3::security,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_39::480214068,P_009,2014-09
+risk::8::capacity,risk::3::security,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+risk::8::capacity,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::880313937,P_009,2014-09
+risk::8::capacity,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::752890000,P_009,2014-09
+risk::8::capacity,risk::4::procurement,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::578548313,P_009,2014-09
+risk::8::capacity,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_2::783219784,P_009,2014-09
+risk::8::capacity,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_4::482423788,P_009,2014-09
+risk::8::capacity,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_9::539763270,P_009,2014-09
+risk::8::capacity,risk::7::capacity constraints,CO_OCCURS,0.3,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::768086788,P_009,2014-09
+risk::9::institutional,risk::10::financing,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::9::institutional,risk::11::conflict,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::9::institutional,risk::2::environmental,CO_OCCURS,1.0,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::10::financing,risk::10::financing,DELAYS_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::11::conflict,risk::11::conflict,DELAYS_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::2::environmental,risk::2::environmental,DELAYS_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::8::capacity,risk::8::capacity,DELAYS_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_69::515137092,P_009,2014-09
+risk::9::institutional,risk::9::institutional,DELAYS_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::10::financing,risk::10::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::10::financing,risk::10::financing,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_27::469510484,P_009,2014-09
+risk::11::conflict,risk::11::conflict,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::20::quality,risk::20::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+risk::20::quality,risk::20::quality,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_103::439929125,P_009,2014-09
+risk::21::suppliers,risk::21::suppliers,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_70::76259544,P_009,2014-09
+risk::23::bidding,risk::23::bidding,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_117::938387239,P_009,2014-09
+risk::2::environmental,risk::2::environmental,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::2::environmental,risk::2::environmental,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+risk::2::environmental,risk::2::environmental,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_67::183428997,P_009,2014-09
+risk::2::environmental,risk::2::environmental,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::874146414,P_009,2014-09
+risk::2::environmental,risk::2::environmental,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::396350158,P_009,2014-09
+risk::3::security,risk::3::security,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_18::107598994,P_009,2014-09
+risk::3::security,risk::3::security,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+risk::3::security,risk::3::security,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_37::3548176,P_009,2014-09
+risk::4::procurement,risk::4::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::4::procurement,risk::4::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+risk::4::procurement,risk::4::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_83::308445308,P_009,2014-09
+risk::4::procurement,risk::4::procurement,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_89::874146414,P_009,2014-09
+risk::5::resettlement,risk::5::resettlement,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::6::piu,risk::6::piu,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+risk::8::capacity,risk::8::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+risk::8::capacity,risk::8::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_25::829360965,P_009,2014-09
+risk::8::capacity,risk::8::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_57::356684614,P_009,2014-09
+risk::8::capacity,risk::8::capacity,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_67::183428997,P_009,2014-09
+risk::9::institutional,risk::9::institutional,INCREASES_COST_SIGNAL,1.0,0.5,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+"action::101::in addition, the bank mission",risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_33::154662503,P_009,2014-09
+"action::105::food security, market , and nu",risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_33::74803182,P_009,2014-09
+action::107::the evaluation will assess som,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_33::472299204,P_009,2014-09
+"action::112::for example, by improving food",risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_34::874963593,P_009,2014-09
+action::113::the basic inputs and training,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_34::673999792,P_009,2014-09
+action::122::the major external risks are d,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_36::687268129,P_009,2014-09
+"action::127::specifically, the proposed ope",risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_37::3548176,P_009,2014-09
+action::12::the proposed emergency project,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_13::364706821,P_009,2014-09
+action::12::the proposed emergency project,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_14::624093083,P_009,2014-09
+action::132::a critical assumption is that,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_39::480214068,P_009,2014-09
+action::132::a critical assumption is that,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_39::480214068,P_009,2014-09
+action::151::procurement for the proposed p,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_42::214808577,P_009,2014-09
+action::151::procurement for the proposed p,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_76::734568527,P_009,2014-09
+action::152::contract awards will also be p,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_42::865401845,P_009,2014-09
+action::152::contract awards will also be p,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_77::642358709,P_009,2014-09
+action::152::contract awards will also be p,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::642358709,P_009,2014-09
+action::155::the procurement plan will be u,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::880313937,P_009,2014-09
+action::155::the procurement plan will be u,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::578548313,P_009,2014-09
+action::155::the procurement plan will be u,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::880313937,P_009,2014-09
+action::155::the procurement plan will be u,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::578548313,P_009,2014-09
+action::156::the environmental and social i,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::710804039,P_009,2014-09
+action::159::an environmental and social sc,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::653061087,P_009,2014-09
+"action::15::at the same time, the proposed",risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_14::926334395,P_009,2014-09
+action::160::the objective of the essaf and,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_43::844006346,P_009,2014-09
+"action::161::in particular, the essaf will",risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_44::382117305,P_009,2014-09
+action::162::the emphasis in the essaf is o,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_44::436852932,P_009,2014-09
+action::163::two safeguards policies are tr,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_44::74048939,P_009,2014-09
+action::166::the project will also support,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_45::326139627,P_009,2014-09
+action::166::the project will also support,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_92::716244127,P_009,2014-09
+action::167::the esmf addresses proposed im,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_45::852643009,P_009,2014-09
+action::168::based on the outcomes of the s,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_45::164531182,P_009,2014-09
+action::168::based on the outcomes of the s,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_92::388532678,P_009,2014-09
+action::172::op/bp 4.12 (involuntary resett,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_45::455909143,P_009,2014-09
+action::172::op/bp 4.12 (involuntary resett,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_46::810595446,P_009,2014-09
+action::173::table 5: safeguards policies t,risk::13::safety,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_46::540383891,P_009,2014-09
+action::173::table 5: safeguards policies t,risk::5::resettlement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_46::540383891,P_009,2014-09
+action::176::to minimize the risks of confl,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_47::588746371,P_009,2014-09
+action::177::th e mediation committee for c,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_47::269766658,P_009,2014-09
+action::180::the proposed project does not,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_48::104463846,P_009,2014-09
+action::182::intermediate results indicator,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_49::545941344,P_009,2014-09
+action::184::the proposed emergency project,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::576472563,P_009,2014-09
+action::184::the proposed emergency project,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::576472563,P_009,2014-09
+action::185::this objective will be achieve,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_50::138944438,P_009,2014-09
+action::18::the proposed project therefore,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_14::676230709,P_009,2014-09
+action::190::since project activities will,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_52::211923400,P_009,2014-09
+action::192::targeted food assistance will,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_53::311777835,P_009,2014-09
+action::197::to limit the possibility of un,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_54::741253151,P_009,2014-09
+action::19::the proposed emergency p rojec,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_17::828700285,P_009,2014-09
+action::208::the world bank financing will,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_56::995770157,P_009,2014-09
+action::21::the project will also improve,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_17::880905442,P_009,2014-09
+action::220::arrangements will be made to e,risk::20::quality,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_60::291515059,P_009,2014-09
+action::223::subcomponent activities will i,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_61::851399296,P_009,2014-09
+action::227::this activity will be implemen,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_61::122716808,P_009,2014-09
+action::22::the proposed project constitut,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_17::149402396,P_009,2014-09
+action::234::the proposed emergency food an,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_62::609987531,P_009,2014-09
+action::234::the proposed emergency food an,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_62::609987531,P_009,2014-09
+action::23::the government’s national food,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_18::107598994,P_009,2014-09
+action::242::the government of chad will be,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::693336273,P_009,2014-09
+action::243::the existing coordination unit,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::858702987,P_009,2014-09
+action::243::the existing coordination unit,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::858702987,P_009,2014-09
+action::244::since the government of chad w,risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::508883680,P_009,2014-09
+action::246::the remainder of this annex in,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::699224501,P_009,2014-09
+action::247::box a3.1: summary of the finan,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_64::147974811,P_009,2014-09
+action::24::the proposed project also clea,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_18::926325248,P_009,2014-09
+action::255::said contracts will include in,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::154087961,P_009,2014-09
+action::258::the manual will provide detail,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+action::258::the manual will provide detail,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+action::258::the manual will provide detail,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_66::410545710,P_009,2014-09
+"action::264::on the other hand, potential s",risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_68::174375946,P_009,2014-09
+action::26::the pdo will be achieved throu,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+action::26::the pdo will be achieved throu,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_19::566823641,P_009,2014-09
+action::273::h entity delayed project imple,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_69::515137092,P_009,2014-09
+action::274::s a procedures manual will be,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_69::203851791,P_009,2014-09
+"action::277::however, the agreement with th",risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_70::76259544,P_009,2014-09
+action::282::the format of ifrs to be submi,risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_70::642453017,P_009,2014-09
+action::285::table a3.2: financial manageme,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_72::417778761,P_009,2014-09
+action::286::said contracts will include in,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_72::113009925,P_009,2014-09
+action::288::the piu for eapsp will be res,risk::6::piu,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_72::504395359,P_009,2014-09
+action::289::each supplier will maintain a,risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_72::726224398,P_009,2014-09
+action::290::each supplier will maintain a,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::293810999,P_009,2014-09
+action::290::each supplier will maintain a,risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::293810999,P_009,2014-09
+action::291::the project ’s internal contro,risk::6::piu,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::478931668,P_009,2014-09
+action::293::the special world bank disburs,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_73::840433615,P_009,2014-09
+action::297::flow of documents flow of fund,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_74::248655140,P_009,2014-09
+action::297::flow of documents flow of fund,risk::21::suppliers,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_74::248655140,P_009,2014-09
+action::29::ection from the permanent deve,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+action::29::ection from the permanent deve,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+action::29::ection from the permanent deve,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_20::450641658,P_009,2014-09
+action::2::i currency equivalents (exchan,risk::1::currency,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+action::2::i currency equivalents (exchan,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+action::2::i currency equivalents (exchan,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_0::759982987,P_009,2014-09
+action::312::39 table a3.3: financial manag,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_76::333853207,P_009,2014-09
+action::313::procuremen t (goods and non -c,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_77::907220236,P_009,2014-09
+action::314::the procurement plan will be u,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_77::856549319,P_009,2014-09
+action::315::a comprehensive general procur,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_77::682320342,P_009,2014-09
+action::316::in the case of national compet,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_77::960978808,P_009,2014-09
+action::317::these supplies will be procure,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::425178371,P_009,2014-09
+action::318::the following procurement meth,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_78::275358207,P_009,2014-09
+action::318::the following procurement meth,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_82::563596403,P_009,2014-09
+action::319::consulting services will be us,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::84873829,P_009,2014-09
+action::320::the consulting services will b,risk::20::quality,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+action::320::the consulting services will b,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_79::508970752,P_009,2014-09
+action::325::institutional arrangements for,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::752890000,P_009,2014-09
+action::325::institutional arrangements for,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::752890000,P_009,2014-09
+action::327::in the implementation of compo,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::816332420,P_009,2014-09
+action::329::the procurement risk rating is,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_80::377830432,P_009,2014-09
+"action::331::if need be, a post review of p",risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_82::50958311,P_009,2014-09
+action::336::description estimated cost (us,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_83::308445308,P_009,2014-09
+action::338::(ii) a conflict prevention mec,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::486265974,P_009,2014-09
+action::340::resp: both status: in progress,risk::19::implementing agency,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::524528698,P_009,2014-09
+action::340::resp: both status: in progress,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::524528698,P_009,2014-09
+action::341::risk management: fao and wfp w,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_84::143522301,P_009,2014-09
+action::346::environmental and social manag,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::991294844,P_009,2014-09
+action::348::particular attention will be p,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::943620257,P_009,2014-09
+action::348::particular attention will be p,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::943620257,P_009,2014-09
+action::349::a capacity building plan will,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::736301154,P_009,2014-09
+action::34::table 2: beneficiary category,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_21::740348181,P_009,2014-09
+action::34::table 2: beneficiary category,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_52::344042984,P_009,2014-09
+action::350::the world bank will work with,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_86::28668201,P_009,2014-09
+action::351::risk management: the project w,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+action::351::risk management: the project w,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+action::351::risk management: the project w,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::754500462,P_009,2014-09
+action::352::resp: client status: in progre,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_87::679800528,P_009,2014-09
+action::354::resp: client status: in progre,risk::3::security,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_88::337551500,P_009,2014-09
+action::357::table a5.1: draft implementati,risk::22::disbursement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_88::322740629,P_009,2014-09
+action::358::the objective of this essaf is,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_90::630391585,P_009,2014-09
+action::359::recognizing the emergency natu,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_90::769222176,P_009,2014-09
+action::35::since the project’s activities,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_21::949748515,P_009,2014-09
+"action::371::for this reason, preparation n",risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_91::584792248,P_009,2014-09
+action::372::activities supported by the pr,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_91::104229729,P_009,2014-09
+action::375::an environmental and social ma,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_92::588334599,P_009,2014-09
+action::380::the project activities will no,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_93::286165780,P_009,2014-09
+action::383::the proposed operation will fi,risk::13::safety,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_93::520665429,P_009,2014-09
+action::389::the essaf provides a framework,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_94::747928222,P_009,2014-09
+action::393:: steps for screening potentia,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::857969160,P_009,2014-09
+action::394:: a proposed checklist of like,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::923430108,P_009,2014-09
+action::395:: relevant elements of the cod,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::872311614,P_009,2014-09
+action::397::a number of ministries and oth,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::557414975,P_009,2014-09
+action::398::wfp and fao will be responsibl,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::888842194,P_009,2014-09
+action::398::wfp and fao will be responsibl,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::888842194,P_009,2014-09
+action::399::the wfp and fao will ensure th,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_95::811550161,P_009,2014-09
+action::399::the wfp and fao will ensure th,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_96::811550161,P_009,2014-09
+action::39::this component will enable wfp,risk::13::safety,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_22::451633264,P_009,2014-09
+action::3::ial management framework esmp,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+action::3::ial management framework esmp,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+action::3::ial management framework esmp,risk::5::resettlement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+action::3::ial management framework esmp,risk::6::piu,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_1::742622985,P_009,2014-09
+action::401::as part of the capacity buildi,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_96::607193771,P_009,2014-09
+action::404::the capacity-building plan wil,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_96::578312779,P_009,2014-09
+action::405::during the project ’s implemen,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_96::245332633,P_009,2014-09
+action::407::ida funding will support a num,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_97::453953445,P_009,2014-09
+action::408::the implementing agencies will,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_97::399707087,P_009,2014-09
+action::411::as required for all environmen,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_97::471252573,P_009,2014-09
+action::412::the preparation and implementa,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_97::87585125,P_009,2014-09
+action::415::it will be disclosed within th,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_98::653047067,P_009,2014-09
+action::419::once the potential impacts of,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_98::722939204,P_009,2014-09
+action::420::esmps provide an essential lin,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_98::954235107,P_009,2014-09
+action::420::esmps provide an essential lin,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_99::954235107,P_009,2014-09
+action::423::54 attachment 2 steps for scre,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_99::779029042,P_009,2014-09
+action::424::environmental and social impac,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::232186303,P_009,2014-09
+action::425::screening of potential environ,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::879779357,P_009,2014-09
+action::425::screening of potential environ,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::879779357,P_009,2014-09
+action::426::o a proposed checklist of like,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::391235222,P_009,2014-09
+action::427:: step 2: definition of the en,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::603421779,P_009,2014-09
+action::428:: step 3: review of the safegu,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_100::114282222,P_009,2014-09
+action::434:: step 5: application of the s,risk::23::bidding,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_101::96853111,P_009,2014-09
+action::440::name of project: description o,risk::15::land acquisition,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_102::462668780,P_009,2014-09
+action::440::name of project: description o,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_102::462668780,P_009,2014-09
+action::442::will project activities affect,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_102::873646771,P_009,2014-09
+action::446::will project activities requir,risk::24::contractor,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_103::310003929,P_009,2014-09
+action::451::will project activities lead t,risk::20::quality,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_103::439929125,P_009,2014-09
+action::45::lists of individuals who will,risk::5::resettlement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_23::975872231,P_009,2014-09
+action::470::will project activities involv,risk::25::expropriation,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_105::933502334,P_009,2014-09
+action::472::will project activities lead t,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_105::473255204,P_009,2014-09
+action::477::______________________________,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_107::401832568,P_009,2014-09
+action::478::fao and wfp and their employee,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_108::2411585,P_009,2014-09
+action::480::adequate traffic control measu,risk::24::contractor,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_110::343289695,P_009,2014-09
+action::486::all arrangements for transport,risk::24::contractor,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_113::629313520,P_009,2014-09
+action::489::the environmental assessment (,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_114::342854498,P_009,2014-09
+action::493::the esmp should include pestic,risk::4::procurement,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_115::215141141,P_009,2014-09
+"action::496::further, t he environmental ma",risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_116::485395415,P_009,2014-09
+action::498::in order to ensure that the pr,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_116::766447090,P_009,2014-09
+action::503::the emp should include cost es,risk::23::bidding,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_117::938387239,P_009,2014-09
+action::504::the costs for implementing the,risk::23::bidding,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_117::795450925,P_009,2014-09
+action::54::the activities will be impleme,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_25::322946085,P_009,2014-09
+action::54::the activities will be impleme,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_57::255911650,P_009,2014-09
+action::55::this subcomponent will provide,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_25::829360965,P_009,2014-09
+action::55::this subcomponent will provide,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_57::356684614,P_009,2014-09
+action::59::this subcomponent will support,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_26::293225406,P_009,2014-09
+action::5::nt martien van nieuwkoop juerg,risk::10::financing,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+action::5::nt martien van nieuwkoop juerg,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+action::5::nt martien van nieuwkoop juerg,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+action::5::nt martien van nieuwkoop juerg,risk::9::institutional,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::445457200,P_009,2014-09
+action::60::subcomponent b.3 : support for,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_26::510911909,P_009,2014-09
+action::60::subcomponent b.3 : support for,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_62::418567795,P_009,2014-09
+action::69:: despite the bank’s efforts t,risk::9::institutional,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_28::404073746,P_009,2014-09
+action::6::vii proposed development objec,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::230286398,P_009,2014-09
+action::6::vii proposed development objec,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_5::949231465,P_009,2014-09
+action::6::vii proposed development objec,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_6::230286398,P_009,2014-09
+action::73::responsibility for overall coo,risk::6::piu,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_29::444516086,P_009,2014-09
+action::74::owing to the government’s limi,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_29::909165542,P_009,2014-09
+action::77::wfp will ensure the coordinati,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_29::907033292,P_009,2014-09
+action::77::wfp will ensure the coordinati,risk::12::coordination,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_31::335900403,P_009,2014-09
+action::79::c omponent a will be implement,risk::8::capacity,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_30::103407604,P_009,2014-09
+action::8::such problems could deplete th,risk::14::border,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_11::507271184,P_009,2014-09
+action::93::the central and decentralized,risk::2::environmental,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_32::423139695,P_009,2014-09
+action::9::the growing concentration of l,risk::11::conflict,MITIGATES,0.6,0.55,ev::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c::f4ff01bb90945e7df63d8a2ef6f87e9084cc435c_12::977556506,P_009,2014-09

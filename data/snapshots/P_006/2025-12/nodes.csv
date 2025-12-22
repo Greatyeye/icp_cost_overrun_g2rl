@@ -1,0 +1,3 @@
+node_id,node_type,name,taxonomy,confidence,probability,severity_num,project_id
+action::1::consider ando las necesidades,Action,"Consider ando las necesidades del proyecto y los riesgos identificados , EMPODERAR ha complementado esos 10 Ley No.",Mitigation,0.55,0.25,0.33,P_006
+project::P_006,Project,P_006,,1.0,0.0,0.0,P_006

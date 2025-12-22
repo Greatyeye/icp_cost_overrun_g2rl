@@ -1,0 +1,7 @@
+node_id,node_type,name,taxonomy,confidence,probability,severity_num,project_id
+project::P_014,Project,P_014,,1.0,0.0,0.0,P_014
+risk::1::bid,Risk,BID,Procurement & Supply,0.55,0.25,0.33,P_014
+risk::2::institutional,Risk,Institutional,Governance/Institutional,0.55,0.25,0.33,P_014
+risk::3::environmental,Risk,Environmental,Quality & HSE,0.55,0.25,0.33,P_014
+risk::4::bidding,Risk,Bidding,Procurement & Supply,0.55,0.25,0.33,P_014
+risk::5::financing,Risk,Financing,Funding & Finance,0.55,0.25,0.33,P_014

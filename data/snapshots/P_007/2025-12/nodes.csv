@@ -1,0 +1,4 @@
+node_id,node_type,name,taxonomy,confidence,probability,severity_num,project_id
+project::P_007,Project,P_007,,1.0,0.0,0.0,P_007
+risk::1::resettlement,Risk,Resettlement,Land & Resettlement,0.55,0.25,0.33,P_007
+risk::2::environment,Risk,Environmental,Quality & HSE,0.55,0.25,0.33,P_007
