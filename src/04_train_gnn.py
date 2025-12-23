@@ -158,12 +158,16 @@ def main(cfg_path: str, snapshots_dir: str, labels_csv: str, out_ckpt: str):
 
             if val_mae < best_val:
                 best_val = val_mae
+                best_state = copy.deepcopy(model.state_dict())
                 save_checkpoint(out_ckpt, model, metadata, cfg)
                 print(f"  ✅ saved best ckpt (val_MAE={best_val:.4f}) -> {out_ckpt}")
+    # ✅ 用 best-val 的模型来测 test（避免最后 epoch 过拟合误导）
+    if best_state is not None:
+        model.load_state_dict(best_state)
 
     # 最终 test
     test_mae = eval_mae(model, test_loader, device)
-    print(f"Test MAE = {test_mae:.4f}")
+    print(f"Test MAE (best-val model) = {test_mae:.4f}")
     print(f"Best checkpoint saved at: {out_ckpt}")
 
 if __name__ == "__main__":

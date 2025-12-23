@@ -9,19 +9,27 @@ from torch_geometric.nn import HeteroConv, GATv2Conv, Linear
 from collections import defaultdict
 from pandas.errors import EmptyDataError
 from pandas.errors import EmptyDataError
+import hashlib
+
+def stable_hash(s: str, mod: int = 10**6) -> int:
+    h = hashlib.sha1(s.encode("utf-8")).hexdigest()[:8]
+    return int(h, 16) % mod
 
 def taxonomy_hash(tax: str) -> float:
     tax = (tax or "").strip().lower()
-    return (hash(tax) % 1000) / 1000.0
+    # 用稳定 hash，保证跨进程一致
+    return stable_hash(tax, mod=1000) / 1000.0
 
 def build_heterodata_from_dfs(nodes: pd.DataFrame, edges: pd.DataFrame, cor_label: float | None = None) -> HeteroData:
     data = HeteroData()
 
     # node_type map & index
     idx = {}
-    for ntype, sub in nodes.groupby("node_type"):
-        sub = sub.reset_index(drop=True)
-        idx[ntype] = {nid: i for i, nid in enumerate(sub["node_id"].astype(str).tolist())}
+    for ntype, sub in nodes.groupby("node_type", sort=True):
+        sub = sub.copy()
+        sub["node_id"] = sub["node_id"].astype(str).str.strip()
+        sub = sub.sort_values("node_id", kind="mergesort").reset_index(drop=True)
+        idx[ntype] = {nid: i for i, nid in enumerate(sub["node_id"].tolist())}
 
         conf = torch.tensor(sub.get("confidence", 0.0).fillna(0.0).values, dtype=torch.float).view(-1, 1)
         prob = torch.tensor(sub.get("probability", 0.0).fillna(0.0).values, dtype=torch.float).view(-1, 1)
@@ -44,7 +52,10 @@ def build_heterodata_from_dfs(nodes: pd.DataFrame, edges: pd.DataFrame, cor_labe
     if edges is None or len(edges) == 0 or "edge_type" not in edges.columns:
         pass
     else:
-        node_type_map = dict(zip(nodes["node_id"].astype(str), nodes["node_type"].astype(str)))
+        node_type_map = dict(zip(
+            nodes["node_id"].astype(str).str.strip(),
+            nodes["node_type"].astype(str).str.strip()
+        ))
 
         buckets = defaultdict(list)  # (src_type, edge_type, dst_type) -> [(s_idx, d_idx, w, c), ...]
 
@@ -53,7 +64,7 @@ def build_heterodata_from_dfs(nodes: pd.DataFrame, edges: pd.DataFrame, cor_labe
             if not etype:
                 continue
 
-            s, d = str(r.get("src", "")), str(r.get("dst", ""))
+            s, d = str(r.get("src", "")).strip(), str(r.get("dst", "")).strip()
             st = node_type_map.get(s)
             dt = node_type_map.get(d)
             if st is None or dt is None:

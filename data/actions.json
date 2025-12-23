@@ -1,0 +1,6 @@
+[
+  {"name":"do_nothing","cost":0,     "effect":{"weight_scale":1.00}},
+  {"name":"add_contingency","cost":50000,"effect":{"risk_prob_scale":0.90}},
+  {"name":"expedite_procurement","cost":80000,"effect":{"supply_chain_edges_scale":0.85}},
+  {"name":"increase_supervision","cost":30000,"effect":{"quality_risk_scale":0.90}}
+]
